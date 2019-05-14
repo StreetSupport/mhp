@@ -42,6 +42,12 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
             ]}
+          - {label: "Strategy and Context", name: "partnership", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Strategy", name: "strategy", widget: "markdown"},
+              {label: "Resources", name: "resources", widget: "markdown"},
+              {label: "Button", name: "button", widget: "string"}
+            ]}
           - {label: "What Else is Happening?", name: "whatElse", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}

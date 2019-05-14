@@ -101,13 +101,16 @@ charter:
     Pledges can be individual or organisational, big or small - we like the ones
     that happen!
   heading: 'Manchester Homelessness Charter:'
-whatElse:
-  body: >-
+partnership:
+  strategy: >-
+    Here will be a sentence about strategy and a button
+  resources: >-
     As a Partnership, we have developed the following materials which may be of
     use to you:
 
-
-    * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
+    
+    * [Co-produced City Strategy
+    (2018-2023)](/homelessness-strategy/)
 
     * [Language and Terminology
     Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
@@ -123,8 +126,10 @@ whatElse:
 
     * [Flyer for How Businesses can get
     Involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
-
-
+  heading: Manchester Strategy and Homelessness Context
+  button: Homelessness Strategy
+whatElse:
+  body: >-
     There is so much fantastic work happening in our city to try and end
     homelessness, and to support the people who are currently experiencing
     homelessness. You can find out more about support services in Manchester and

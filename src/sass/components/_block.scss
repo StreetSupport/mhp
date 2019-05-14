@@ -290,3 +290,11 @@
     margin: 0 $padding * 2 0 0;
   }
 }
+
+.column {
+  display: flex;
+  padding-bottom: 10%;
+  @include mq($until: tablet) {
+    flex-wrap: wrap;
+  }
+}

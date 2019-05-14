@@ -165,6 +165,29 @@
   </div>
 </section>
 
+<section class="block block--plain">
+  <div class="container">
+    <header class="block__header">
+      <h1 class="block__header-title">{{ .Params.partnership.heading }}</h1>
+    </header>
+      <div class="column">
+        <div class="block__body">
+          {{ $bodyMarkdown := .Params.partnership.strategy | markdownify }}
+          {{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>
+          {{ else }}{{ $bodyMarkdown }}{{ end }}
+          <div class="btns">  
+            <a class="btn btn--mhp-yellow" href="/homelessness-strategy">{{ .Params.partnership.button }}</a>
+          </div>
+        </div>
+        <div class="block__body">
+          {{ $bodyMarkdown := .Params.partnership.resources | markdownify }}
+          {{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>
+          {{ else }}{{ $bodyMarkdown }}{{ end }}
+        </div>
+      </div> 
+    </div>
+</section>
+
 <section class="block block--plain block--right-image block--image-last"
   style="background-image: url(/assets/images/ssn-on-laptop.png)">
   <div class="container">
