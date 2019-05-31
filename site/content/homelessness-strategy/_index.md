@@ -1,18 +1,28 @@
 ---
 title: Manchester Homelessness Strategy
-menu:
-  main:
-    name: Our Homelessness Strategy
-    weight: 100
 hero:
-  image: /assets/images/streetwise-opera.jpg
+  image: /assets/uploads/strategy.jpg
 about:
   body: >-
-    The Manchester City Strategy (which you can download below) was co-produced
-    by members of Manchester Homelessness Partnership. This includes people with
-    personal insight into homelessness, people who work for the Council and
-    frontline services. As far as we are aware, this is the first time a city in
-    the UK has developed a strategy in this way.
+    The [Manchester City
+    Strategy](lob:https://mhp.org.uk/3e6128c3-25ff-49da-886b-99c7f018154f) for
+    ending homelessness has three main aims:
+
+
+    1. To make homelessness rare: increasing prevention and early intervention
+
+    2. To make homelessness as brief as possible: improving temporary and
+    supported accommodation so it becomes a positive experience
+
+    3. To make any experiences of homelessness a one-off occurrence: increasing
+    access to settled homes
+
+
+    The strategy was co-produced by members of Manchester Homelessness
+    Partnership. This includes people who have personal insight into
+    homelessness, people who work for the Council, and people who work in
+    frontline charity services. As far as we are aware, this is the first time a
+    city in the UK has developed a strategy in this way.
 
 
     We believe that to end homelessness in all it's forms in Manchester, we have
@@ -22,7 +32,9 @@ about:
     voluntary sector, and businesses.
   heading: Change Through Co-Production
 actionPlans:
-  body:
+  body: >-
+    Each sector has developed action plans in response to the strategy. We will
+    add these to the site shortly.
   heading: Action Plans
 strategyCta:
   title: READ THE FULL STRATEGY HERE
