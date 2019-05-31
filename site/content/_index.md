@@ -104,7 +104,7 @@ charter:
 partnership:
   buttonText: Manchester Homelessness Strategy
   buttonUrl: /homelessness-strategy
-  heading: Manchester Strategy and Homelessness Context
+  heading: Useful materials
   resources: >-
     As a Partnership, we have developed the following materials which may be of
     use to you:
@@ -134,9 +134,12 @@ partnership:
 whatElse:
   body: >-
     There is so much fantastic work happening in our city to try and end
-    homelessness, and to support the people who are currently experiencing
-    homelessness. You can find out more about support services in Manchester and
-    how you can help through [Street Support Network](http://streetsupport.net).
+    homelessness, and to support the people who are currently experiencing a
+    form of homelessness. 
+
+
+    You can find out more about these services and how you can help through:
+    [Street Support Network](http://streetsupport.net).
   heading: What else is happening?
 ---
 
