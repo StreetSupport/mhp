@@ -110,7 +110,8 @@ partnership:
     use to you:
 
 
-    * [Homelessness in Context](/homelessness-in-manchester/)
+    * [Context: the bigger picture of
+    homelessness](https://mhp.org.uk/homelessness-in-manchester/)
 
     * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
 
@@ -120,7 +121,7 @@ partnership:
     * ['Storefront engagement' - Guide for
     Businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
 
-    * [Learnings from the MHP
+    * [Learnings from the MHP -
     report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
 
     * [Best Practice Guideline for Voluntary
