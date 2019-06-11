@@ -49,6 +49,34 @@ npm run build:preview
 
 See [package.json](package.json#L8) for all tasks.
 
+## Usage with docker
+
+### :exclamation: Prerequisites
+
+
+Clone this repository and run:
+
+```bash
+docker build -t mhp .
+```
+
+This will take some time and will install the correct version of node to run Victor Hugo inside a docker container.
+
+```bash
+sudo docker run -v "$(pwd)":/app -w /app mhp npm install
+```
+
+This will take some time and will install all packages necessary to run Victor Hugo and its tasks.
+
+### :construction_worker: Development
+
+While developing your website, use:
+```bash
+docker run -v "$(pwd)":/app  -w /app --net=host mhp npm run start
+```
+
+Then visit http://localhost:3000/ to preview your new website. Webpack Dev Server will automatically reload the CSS or refresh the whole page, when stylesheets or content changes.
+
 ## Structure
 
 ```
