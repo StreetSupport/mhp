@@ -22,9 +22,7 @@
         </div>
         <div class="container">
           <div class="block__body block__body--drop-shadow">
-            {{ $bodyMarkdown := .Params.content.body | markdownify }}
-            {{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>
-            {{ else }}{{ $bodyMarkdown }}{{ end }}
+              {{ partial "bodyMarkdown.html" .Params.content.body }}
           </div>
         </div>
     </section>

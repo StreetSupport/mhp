@@ -1,0 +1,3 @@
+{{ $bodyMarkdown := . | markdownify }}
+{{ if not ( strings.Contains $bodyMarkdown "<p>" ) }}<p>{{ $bodyMarkdown }}</p>
+{{ else }}{{ $bodyMarkdown }}{{ end }}
