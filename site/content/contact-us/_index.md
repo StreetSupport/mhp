@@ -1,7 +1,9 @@
 ---
 title: Get in Touch
-menu: main
-weight: 10000
+menu:
+  main:
+    name: Get in Touch
+    weight: 10000
 layout: single
 content:
   body: >-
