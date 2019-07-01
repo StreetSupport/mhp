@@ -47,9 +47,13 @@
     {{ if ((ne .Params.strategyCta.title nil) | and (ne .Params.strategyCta.url nil)) }}
     <section class="block block-last">
       <div class="container">
-        <div class="btns">
-          <a class="btn btn--mhp-green" href="{{ .Params.strategyCta.url }}">{{ .Params.strategyCta.title }}</a>
-        </div>
+        {{ $urlPre := "https://api.github.com" }}
+        {{ $gistJ := getJSON $urlPre "/users/joseph-allen/gists" }}
+        {{ range first 5 $gistJ }}
+        {{ if .public }}
+        <li><a href="{{ .html_url }}" target="_blank">{{ .description }}</a></li>
+        {{ end }}
+        {{ end }}
       </div>
     </section>
     {{ end }}
