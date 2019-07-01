@@ -85,6 +85,18 @@ collections:
             {label: "Title", name: "title", widget: "string"},
             {label: "Url", name: "url", widget: "string"}
           ]}
+      - file: "site/content/i-need-support/_index.md"
+        label: "Homelessness Strategy"
+        name: "i-need-support"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Image", name: "image", widget: "image"}
+            ]}
+          - {label: "About", name: "about", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string" },
+            {label: "Body", name: "body", widget: "markdown" },
+          ]}
       - file: "site/content/homelessness-in-manchester/_index.md"
         label: "Homelessness in Manchester"
         name: "homelessness-in-manchester"
