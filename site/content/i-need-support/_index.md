@@ -1,8 +1,8 @@
 ---
-title: Manchester Homelessness Strategy
+title: I need support
 menu:
   main:
-    name: Our Homelessness Strategy
+    name: I need support
     weight: 100
 hero:
   image: /assets/images/streetwise-opera.jpg
@@ -21,5 +21,12 @@ about:
     strategy. This includes responses from the council, health, housing, the
     voluntary sector, and businesses.
   heading: Change Through Co-Production
+actionPlans:
+  body:
+  heading: I need support
+strategyCta:
+  title: READ THE FULL STRATEGY HERE
+  url: 'https://drive.google.com/file/d/1N2gW8c1ED3LYAKEkwkKlXzOXIWeAi9D1/view'
 ---
+
 
