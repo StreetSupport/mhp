@@ -1,13 +1,13 @@
 ---
 action-group: 'yes'
-title: Arts and Heritage Action Group
-slug: arts-and-heritage
+title: Big Change Initiative Action Group
+slug: big-change-initiative
 content:
-  heading: Arts and Heritage
-  subHeading: Increasing opportunities for people with experience of homelessness to engage in the arts, through the city's arts and cultural institutions, artists and industries
-  body: The Arts and Heritage group is a partnership of people involved in arts and/or homelessness work. Their sessions will include co-curating workshops at different venues across the city.
-  id: 574305a0e2064139e7f18eb4
-  contactEmail: arts-and-heritage-mhp@streetsupport.net
-  newsUrl: http://news.streetsupport.net/tag/arts-heritage/
+  heading: Big Change Initiative
+  subHeading: Alternative ways for the public to give money and reduce street begging
+  body: Giving money to people begging on the street isn’t an effective way to help individuals move away from sleeping rough, or address the complicated range of reasons which made them homeless. This action group is looking at alternative ways of giving via the Big Change fund, and will also raise public awareness on how to help including volunteering.
+  id: 57166268e4b09686f6b2c893
+  contactEmail: big-change-mhp@streetsupport.net
+  newsUrl: http://news.streetsupport.net/tag/big-change-mcr/
 ---
 
