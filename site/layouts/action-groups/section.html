@@ -1,0 +1,77 @@
+{{ $section := .Site.GetPage "section" .Section }}
+
+<!DOCTYPE html>
+<html class="no-js action-groups" lang="en-GB" xmlns:fb="http://ogp.me/ns/fb#">
+{{- partial "head.html" . -}}
+
+<body>
+  {{- partial "header.html" . -}}
+  <main id="main">
+    <section>
+      <div {{ if not (isset .Params.hero "image") }}
+        class="block__image block__image--bg block__image--bg-missing-image" {{ else }}
+        class="block__image block__image--bg" {{ end }} {{ if (isset .Params.hero "image") }}
+        style="background-image: url({{ .Params.hero.image }})" {{ end }}>
+        <div class="container">
+          <header class="block__header">
+            <h1 class="block__header-title">{{ .Params.content.whatIs.heading }}</h1>
+          </header>
+        </div>
+      </div>
+      <div class="container">
+        <div class="block__body block__body--drop-shadow">
+          {{ partial "bodyMarkdown.html" .Params.content.whatIs.body }}
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="container">
+        <header class="block__header">
+          <h1 class="block__header-title">
+            {{ .Params.content.howDoesItWork.heading }}
+          </h1>
+        </header>
+      </div>
+      </div>
+      <div class="container">
+        <div class="block__body block__body--drop-shadow">
+          {{ partial "bodyMarkdown.html" .Params.content.howDoesItWork.body }}
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="container">
+        <header class="block__header">
+          <h1 class="block__header-title">{{ .Params.content.joinAnActionGroup.heading }}</h1>
+        </header>
+
+        <div class="block__body">
+          <div class="ctas">
+            {{ range .Pages }}
+            <div class="cta">
+              <h1 class="h2">{{ .Params.content.heading }}</h1>
+              <p>{{ .Params.content.subHeading }}</p>
+              <a class="btn btn--mhp-yellow cta__link"
+                href="{{ .Permalink }}">Learn more</a>
+            </div>
+            {{ end }}
+          </div>
+          {{ partial "bodyMarkdown.html" .Params.content.joinAnActionGroup.body }}
+        </div>
+      </div>
+    </section>
+
+  </main>
+  {{ $footer := .Site.GetPage "_footer.md" }}
+  {{ partial "footer.html" (dict "footer" $footer) }}
+
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
+</html>
