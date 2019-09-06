@@ -101,3 +101,20 @@ collections:
             {label: "Heading", name: "heading", widget: "string" },
             {label: "Body", name: "body", widget: "markdown" },
           ]}
+  - name: "action-groups"
+    label: "Action Group"
+    editor:
+      preview: false
+    folder: "site/content/action-groups"
+    create: false
+    filter: {field: "action-group", value: "yes"}
+    fields:
+      - {label: "Action Group", name: "action-group", widget: "hidden", default: "yes"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "main", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Sub-Heading", name: "subHeading", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Contact Email Address", name: "contactEmail", widget: "string"},
+          {label: "News Url", name: "newsUrl", widget: "string"}
+        ]}
