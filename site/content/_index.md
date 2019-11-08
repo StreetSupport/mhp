@@ -117,14 +117,11 @@ partnership:
     * [Flyer for How Businesses can get
     involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
 
-    * [Three documents on emergency accommodation
-    standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
+    * [Emergency Accommodation
+    Standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
 
-    * [Mental health action group - cause and consequence
+    * [Cause and Consequence
     report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
-
-    * [Context: the bigger picture of
-    homelessness](https://mhp.org.uk/homelessness-in-manchester/)
   strategy: Manchester
 whatElse:
   body: >-
