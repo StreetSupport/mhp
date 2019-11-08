@@ -56,40 +56,34 @@ getInvolved:
   image: /assets/uploads/womens-action-group.jpg
 howDoesItWork:
   body: >-
-    At the heart of the Partnership are the [actions
-    groups](https://charter.streetsupport.net/join-action-group/), which each
-    tackle a key challenge that people who are homeless may regularly face. Each
-    group includes people who have experienced the topic in question, as well as
-    those who have relevant skills and roles. The groups include; Prevention,
-    Migration & Destitution, Employment, Mental Health, and the experiences of
-    Women & Young People.
+    At the heart of the Partnership are our
+    [Charter](https://charter.streetsupport.net/read-the-charter/) values and
+    the [Actions Groups](https://mhp.org.uk/action-groups/) which tackle
+    specific challenges that people who are homeless may face. Each group
+    includes people who have experienced the topic in question, as well as other
+    relevent organisations. 
 
 
-    We also have a [partnership
-    board,](https://charter.streetsupport.net/partnership-board/) which brings
-    together representatives from different perspectives of our city. The board
-    meets quarterly to use its collective influence to remove any systemic
-    blockages that our network is facing. The driving group maintains momentum,
-    supports the action groups, and protects the aims and values of the charter.
+    We have a Partnership Board of representatives from different perspectives
+    of our city which meets to use its collective influence to remove systemic
+    blockages. We also have a Driving Group which maintains momentum, supports
+    the action groups, and protects the values of the Charter.
 
 
-    Part of the 'glue' of the Partnership is [Street Support
-    Network](https://streetsupport.net); which has supported the charter mission
-    from the start. Street Support Network host the two paid Partnership roles
-    and are part of the driving group. They facilitate the network, help connect
-    people, and communicate between the Partnership and out to others in the
-    city through their website, App and other channels.
-
-
-    We are also linked into the Greater Manchester Homelessness Action Network.
+    Part of the 'glue' that holds our network together is [Street
+    Support](https://streetsupport.net).  Street Support has been part of the
+    Driving Group from the start and hosts the two paid Partnership roles. They
+    provide facilitation, connect people, and communicate between the
+    Partnership and out to others through the website & App. We are also linked
+    into the Greater Manchester Homelessness Action Network.
   heading: How does it work?
   image: assets/images/how-it-works.png
 charter:
   body: >-
-    The Manchester Homelessness Charter outlines unites people, organisations,
-    and businesses together with one shared vision and set of values. The
-    Charter was co-created by people experiencing homelessness and the
-    organisations which provide support services.
+    The Manchester Homelessness Charter unites people, organisations, and
+    businesses together with one shared vision and set of values. The Charter
+    was co-created by people experiencing homelessness and the organisations
+    which provide support services.
 
 
     _How_ we do what we do is very important to us. If you would like to be part
