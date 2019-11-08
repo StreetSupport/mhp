@@ -73,7 +73,7 @@ howDoesItWork:
     supports the action groups, and protects the aims and values of the charter.
 
 
-    The 'glue' of the Partnership is [Street Support
+    Part of the 'glue' of the Partnership is [Street Support
     Network](https://streetsupport.net); which has supported the charter mission
     from the start. Street Support Network host the two paid Partnership roles
     and are part of the driving group. They facilitate the network, help connect
@@ -86,32 +86,25 @@ howDoesItWork:
   image: assets/images/how-it-works.png
 charter:
   body: >-
-    The Manchester Homelessness Charter unites people, organisations, and
-    businesses together with one shared vision and set of values. The Charter
-    has been co-created by people experiencing homelessness and the
+    The Manchester Homelessness Charter outlines unites people, organisations,
+    and businesses together with one shared vision and set of values. The
+    Charter was co-created by people experiencing homelessness and the
     organisations which provide support services.
 
 
     _How_ we do what we do is very important to us. If you would like to be part
     of the Manchester Homelessness Partnership, please read the Charter and
-    commit to working in line with our values. 
-
-
-    Make a pledge to detail how you can contribute to ending homelessness.
-    Pledges can be individual or organisational, big or small - we like the ones
-    that happen!
+    commit to working in line with our values.
   heading: 'Manchester Homelessness Charter:'
 partnership:
   buttonText: Manchester Homelessness Strategy
   buttonUrl: /homelessness-strategy
   heading: Useful materials
   resources: >-
-    As a Partnership, we have developed the following materials which may be of
-    use to you:
+    Manchester is coming together to tackle all forms of homelessness. As a
+    Partnership, we have developed the following materials to help us do this.
+    Some of them may be of interest or use to you:
 
-
-    * [Context: the bigger picture of
-    homelessness](https://mhp.org.uk/homelessness-in-manchester/)
 
     * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
 
@@ -129,9 +122,16 @@ partnership:
 
     * [Flyer for How Businesses can get
     involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
-  strategy: >-
-    Manchester is coming together to tackle all forms of homelessness. Learn
-    more about our strategy here:
+
+    * [Three documents on emergency accommodation
+    standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
+
+    * [Mental health action group - cause and consequence
+    report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
+
+    * [Context: the bigger picture of
+    homelessness](https://mhp.org.uk/homelessness-in-manchester/)
+  strategy: Manchester
 whatElse:
   body: >-
     There is so much fantastic work happening in our city to try and end
