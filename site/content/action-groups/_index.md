@@ -3,9 +3,9 @@ title: Action Groups
 menu:
   main:
     name: Action Groups
-    weight: 150
+    weight: 100
 hero:
-  image: /assets/images/streetwise-opera.jpg
+  image: /assets/images/womens-ag.JPG
   heading: Action Groups
 content:
   whatIs:

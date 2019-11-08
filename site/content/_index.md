@@ -1,5 +1,9 @@
 ---
 title: Welcome
+menu:
+  main:
+    name: Home
+    weight: 10
 hero:
   image: /assets/uploads/charter-launch-2.jpg
 whatIs:
