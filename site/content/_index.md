@@ -122,6 +122,9 @@ partnership:
 
     * [Cause and Consequence
     report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
+
+    * [Reverse advent calendar
+    2019](https://drive.google.com/file/d/1LAIts-YJsNAj76i3A-0MjSoP3MjI0xpe/view)
   strategy: Manchester
 whatElse:
   body: >-
