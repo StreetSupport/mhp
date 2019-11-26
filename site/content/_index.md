@@ -100,27 +100,27 @@ partnership:
     Some of them may be of interest or use to you:
 
 
-    * [Co-produced City Strategy (2018-2023)](/homelessness-strategy/)
+    * [Co-produced city strategy (2018-2023)](/homelessness-strategy/)
 
-    * [Language and Terminology
-    Guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
+    * [Language and terminology
+    guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
 
-    * ['Storefront engagement' - Guide for
-    Businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
+    * ['Storefront engagement' - guide for
+    businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
 
     * [Learnings from the MHP -
     report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
 
-    * [Best Practice Guideline for Voluntary
-    Groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
+    * [Best practice guideline for voluntary
+    groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
 
-    * [Flyer for How Businesses can get
+    * [Flyer for how businesses can get
     involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
 
-    * [Emergency Accommodation
-    Standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
+    * [Emergency accommodation
+    standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
 
-    * [Cause and Consequence
+    * [Cause and consequence
     report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
 
     * [Reverse advent calendar
