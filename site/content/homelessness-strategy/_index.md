@@ -3,7 +3,7 @@ title: Manchester Homelessness Strategy
 menu:
   main:
     name: Our Homelessness Strategy
-    weight: 100
+    weight: 50
 hero:
   image: /assets/uploads/strategy.jpg
 about:

@@ -24,7 +24,7 @@
           <div class="block__body block__body--drop-shadow">
               {{ partial "bodyMarkdown.html" .Params.content.body }}
 
-              <p><a href="mailto: {{ .Params.content.newsUrl }}">Read the latest news</a> from this Action Group.</p>
+              <p><a href="{{ .Params.content.newsUrl }}">Read the latest news</a> from this Action Group.</p>
 
               <p>To get involved with this action group, please email: <a href="mailto: {{ .Params.content.contactEmail }}">{{ .Params.content.contactEmail }}</a>:</p>
               

@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master
+  site_domain: mhp.netlify.com
 
 media_folder: "site/static/assets/uploads"
 public_folder: "assets/uploads"
@@ -101,3 +102,20 @@ collections:
             {label: "Heading", name: "heading", widget: "string" },
             {label: "Body", name: "body", widget: "markdown" },
           ]}
+  - name: "action-groups"
+    label: "Action Groups"
+    editor:
+      preview: false
+    folder: "site/content/action-groups"
+    create: false
+    filter: {field: "action-group", value: "yes"}
+    fields:
+      - {label: "Action Group", name: "action-group", widget: "hidden", default: "yes"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "content", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Sub-Heading", name: "subHeading", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Contact Email Address", name: "contactEmail", widget: "string"},
+          {label: "News Url", name: "newsUrl", widget: "string"}
+        ]}

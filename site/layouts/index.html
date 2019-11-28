@@ -148,7 +148,6 @@
 
         <div class="btns">
           <a class="btn btn--mhp-green" href="https://charter.streetsupport.net/read-the-charter/">Read Charter</a>
-          <a class="btn btn--mhp-yellow" href="https://charter.streetsupport.net/pledge-your-support/">Pledge</a>
         </div>
       </div>
     </div>
@@ -160,14 +159,8 @@
     <header class="block__header">
       <h1 class="block__header-title">{{ .Params.partnership.heading }}</h1>
     </header>
-        <div class="block__body block__body--two-columns">
-          <div class="column">
-              {{ partial "bodyMarkdown.html" .Params.partnership.strategy }}
-            <a class="btn btn--mhp-yellow" href="{{ .Params.partnership.buttonUrl }}">{{ .Params.partnership.buttonText }}</a>
-          </div>
-          <div class="column">
+        <div class="block__body">
             {{ partial "bodyMarkdown.html" .Params.partnership.resources }}
-          </div>
         </div>
     </div>
 </section>

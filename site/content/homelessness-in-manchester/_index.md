@@ -3,7 +3,7 @@ title: Homelessness in Manchester
 menu:
   main:
     name: Homelessness in Manchester
-    weight: 50
+    weight: 150
 
 hero:
   image: /assets/images/streetwise-opera.jpg

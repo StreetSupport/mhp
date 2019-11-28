@@ -1,18 +1,22 @@
 ---
 title: Get in Touch
-menu:
-  main:
-    name: Get in Touch
-    weight: 10000
 layout: single
 content:
   body: >-
-    To learn more about the Manchester Homelessness Partnership, and how to get
-    involved, please email us: <mailto:info@mhp.org.uk>.
+    To learn more about the Manchester Homelessness Partnership and how to get
+    involved, please email: [info@mhp.org.uk](<mailto: info@mhp.org.uk>)
 
 
-    If you are a business who is interested in supporting our work, please
-    contact: dee@streetsupport.net
+    If you are a business, please contact: [dee@streetsupport.net](<mailto:
+    dee@streetsupport.net>)
+
+
+    For more information about the different charities and services that make up
+    the Manchester Homelessness Partnership, please visit:
+    [www.streetsupport.net/manchester/](www.streetsupport.net/manchester/)
+
+
+    Thank you
   heading: Get in Touch
   subHeading: ''
 ---
