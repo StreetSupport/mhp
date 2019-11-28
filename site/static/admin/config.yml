@@ -93,7 +93,7 @@ collections:
           - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
-          ]}
+            ]}
       - file: "site/content/homelessness-in-manchester/_index.md"
         label: "Homelessness in Manchester"
         name: "homelessness-in-manchester"
