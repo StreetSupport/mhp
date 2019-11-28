@@ -5,7 +5,7 @@ menu:
     name: Action Groups
     weight: 100
 hero:
-  image: /assets/images/womens-ag.JPG
+  image: /assets/images/womens-ag.jpg
   heading: Action Groups
 
 whatIs:

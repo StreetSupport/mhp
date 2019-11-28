@@ -275,12 +275,6 @@
     }
   }
 
-  &--flex {
-      columns: 2;
-      -webkit-columns: 2;
-      -moz-columns: 2;
-  }
-
   &--two-columns {
     @include mq($from: desktop) {
       display: flex;
