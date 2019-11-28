@@ -6,7 +6,7 @@ menu:
     weight: 150
 
 hero:
-  image: /assets/images/streetwise-opera.jpg
+  image: /assets/images/ag-photo.jpg
 about:
   body: >-
     Homelessness is complex and anyone who is currently without a home should be
