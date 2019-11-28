@@ -119,11 +119,11 @@ collections:
           {label: "Contact Email Address", name: "contactEmail", widget: "string"},
           {label: "News Url", name: "newsUrl", widget: "string"}
         ]}
-      - file: "site/content/action-groups/_index.md"
-        label: "Action Groups Page"
-        name: "action-groups"
-        fields:
-          - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-            ]}
+    - file: "site/content/action-groups/_index.md"
+      label: "Action Groups Page"
+      name: "action-groups"
+      fields:
+        - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
+          ]}
