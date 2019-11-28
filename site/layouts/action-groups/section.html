@@ -14,13 +14,13 @@
         style="background-image: url({{ .Params.hero.image }})" {{ end }}>
         <div class="container">
           <header class="block__header">
-            <h1 class="block__header-title">{{ .Params.content.whatIs.heading }}</h1>
+            <h1 class="block__header-title">{{ .Params.whatIs.heading }}</h1>
           </header>
         </div>
       </div>
       <div class="container">
         <div class="block__body block__body--drop-shadow">
-          {{ partial "bodyMarkdown.html" .Params.content.whatIs.body }}
+          {{ partial "bodyMarkdown.html" .Params.whatIs.body }}
         </div>
       </div>
       </div>
