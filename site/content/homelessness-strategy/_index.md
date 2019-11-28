@@ -35,11 +35,6 @@ about:
     strategy. This includes responses from the council, health, housing, the
     voluntary sector, and businesses.
   heading: Change Through Co-Production
-actionPlans:
-  body: >-
-    Each sector has developed action plans in response to the strategy. We will
-    add these to the site shortly.
-  heading: Action Plans
 strategyCta:
   title: READ THE FULL STRATEGY HERE
   url: 'https://drive.google.com/file/d/1N2gW8c1ED3LYAKEkwkKlXzOXIWeAi9D1/view'

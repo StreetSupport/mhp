@@ -86,6 +86,14 @@ collections:
             {label: "Title", name: "title", widget: "string"},
             {label: "Url", name: "url", widget: "string"}
           ]}
+      - file: "site/content/action-groups/_index.md"
+        label: "Action Groups"
+        name: "action-groups"
+        fields:
+          - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
       - file: "site/content/homelessness-in-manchester/_index.md"
         label: "Homelessness in Manchester"
         name: "homelessness-in-manchester"
