@@ -3,14 +3,15 @@ action-group: 'yes'
 title: Emergency Accommodation Action Group
 content:
   body: >-
-    The Emergency Accommodation Action Group takes a holistic look at temporary
-    provision of accommodation in the city, including winter night shelters, and
-    move-on accommodation. 
+    The Emergency Accommodation Action Group aims to raise the standards of
+    emergency accommodation in Manchester.  The group has set out a vision for
+    emergency accommodation for 2022, as well as setting minimum standards for
+    now.
 
 
-    On Friday 30th August 2019 the action group launched Manchester’s Emergency
-    Accommodation Minimum Standards. The launch marks the outcome of months of
-    significant collaborative efforts.
+    Achievements of the group include drawing up the vision and minimum
+    standards, getting these adopted by the MHP and Manchester City Council and
+    they now form the basis for the commissioning of these services.
 
 
     The minimum standards and vision for 2022 are to ensure that Manchester has
@@ -27,9 +28,9 @@ content:
 
     Download > > [Minimum standards and vision for
     2022](https://www.boothcentre.org.uk/partnerships.html)
-  contactEmail: emergency-accomodation-mhp@streetsupport.net
+  contactEmail: amanda@boothcentre.org.uk
   heading: Emergency Accommodation
   newsUrl: 'http://news.streetsupport.net/tag/emergency-accomodation/'
-  subHeading: Increasing winter emergency accommodation for rough sleepers
+  subHeading: Improving the provision of emergency accommodation in Manchester
 ---
 
