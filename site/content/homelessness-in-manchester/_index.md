@@ -3,10 +3,10 @@ title: Homelessness in Manchester
 menu:
   main:
     name: Homelessness in Manchester
-    weight: 50
+    weight: 150
 
 hero:
-  image: /assets/images/streetwise-opera.jpg
+  image: /assets/images/ag-photo.jpg
 about:
   body: >-
     Homelessness is complex and anyone who is currently without a home should be

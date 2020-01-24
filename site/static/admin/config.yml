@@ -119,3 +119,4 @@ collections:
           {label: "Contact Email Address", name: "contactEmail", widget: "string"},
           {label: "News Url", name: "newsUrl", widget: "string"}
         ]}
+

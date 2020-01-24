@@ -25,19 +25,6 @@
       </div>
     </section>
     {{ if (ne .Params.actionPlans.body nil) }}
-    <section class="block">
-      <div class="container">
-        <header class="block__header">
-          <h1 class="block__header-title">{{ .Params.actionPlans.heading }}</h1>
-          {{ if (ne .Params.actionPlans.subHeading nil) }}
-          <p class="block__header-sub-title">{{ .Params.actionPlans.subHeading }}</p>
-          {{ end }}
-        </header>
-        <div class="block__body block__body--drop-shadow">
-          {{ partial "bodyMarkdown.html" .Params.actionPlans.body }}
-        </div>
-      </div>
-    </section>
     {{ end }}
 
     {{ if ((ne .Params.strategyCta.title nil) | and (ne .Params.strategyCta.url nil)) }}
