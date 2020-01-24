@@ -7,7 +7,7 @@ content:
     and/or homelessness work. Their sessions will include co-curating workshops
     at different venues across the city.
   contactEmail: arts-and-heritage-mhp@streetsupport.net
-  heading: Arts and Heritage (test)
+  heading: Arts and Heritage
   newsUrl: 'http://news.streetsupport.net/tag/arts-heritage/'
   subHeading: >-
     Increasing opportunities for people with experience of homelessness to
