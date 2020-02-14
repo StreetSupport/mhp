@@ -21,9 +21,8 @@ whatIs:
     co-wrote the Charter.
 
 
-    The Charter and Partnership were created with no financial resource. In
-    April 2018 we welcomed two full time roles, but nearly all of our work is
-    still done voluntarily by the fantastic people in our network.
+    The Charter and Partnership were created with no financial resource. Most of our work is
+     done voluntarily by the fantastic people in our network.
   heading: What is the Manchester Homelessness Partnership?
 whosInvolved:
   body: >-
@@ -75,8 +74,7 @@ howDoesItWork:
 
 
     Part of the 'glue' that holds our network together is [Street
-    Support](https://streetsupport.net).  Street Support has been part of the
-    Driving Group from the start and hosts the two paid Partnership roles. They
+    Support Network](https://streetsupport.net). They
     provide facilitation, connect people, and communicate between the
     Partnership and out to others through the website & App. We are also linked
     into the Greater Manchester Homelessness Action Network.
