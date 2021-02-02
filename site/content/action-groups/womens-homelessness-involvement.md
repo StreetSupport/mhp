@@ -1,9 +1,9 @@
 ---
-action-group: 'yes'
-title: Women's Homelessness Involvement
+action-group: yes
+title: Women’s Homelessness Involvement Group (WHIG)
 slug: womens-homelessness-involvement
 content:
-  heading: Women's Homelessness Involvement
+  heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: CONTENT TBA HERE
   id: 57166268e4b09686f6b2c893
