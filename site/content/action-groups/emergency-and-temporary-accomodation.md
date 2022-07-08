@@ -1,9 +1,9 @@
 ---
 action-group: 'yes'
-title: Emergency Accommodation Action Group
+title: Emergency and Temporary Accommodation Action Group
 content:
   body: >-
-    The Emergency Accommodation Action Group aims to raise the standards of
+    The Emergency and Temporary Accommodation Action Group aims to raise the standards of
     emergency accommodation in Manchester.  The group has set out a vision for
     emergency accommodation for 2022, as well as setting minimum standards for
     now.
@@ -29,8 +29,8 @@ content:
     Download > > [Minimum standards and vision for
     2022](https://www.boothcentre.org.uk/partnerships.html)
   contactEmail: amanda@boothcentre.org.uk
-  heading: Emergency Accommodation
+  heading: Emergency and Temporary Accommodation
   newsUrl: 'http://news.streetsupport.net/tag/emergency-accomodation/'
-  subHeading: Improving the provision of emergency accommodation in Manchester
+  subHeading: Improving the provision of emergency and temporary accommodation in Manchester
 ---
 
