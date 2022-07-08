@@ -1,9 +1,9 @@
 ---
 action-group: yes
-title: Women’s Homelessness Involvement Group (WHIG)
-slug: womens-homelessness-involvement
+title: Women’s Homelessness Inclusion Group (WHIG)
+slug: womens-homelessness-inclusion
 content:
-  heading: Women’s Homelessness Involvement Group (WHIG)
+  heading: Women’s Homelessness Inclusion Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: >-
     What is the purpose of the group?
