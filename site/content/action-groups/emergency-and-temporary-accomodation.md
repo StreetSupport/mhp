@@ -22,6 +22,5 @@ content:
   contactEmail: amanda@boothcentre.org.uk
   heading: Emergency and Temporary Accommodation
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
-  subHeading: Improving the provision of emergency and temporary accommodation in
-    Manchester
+  subHeading:
 ---
