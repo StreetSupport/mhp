@@ -14,16 +14,11 @@ content:
     The group also supports campaigns for longer term change. The group includes
     members from Boaz Trust, Growing Together Levenshulme, Equal Education
     Chances, Asylum Matters and others. The co-chairs are Andy Muzondiwa and
-    William Wheeler.
-
-
-
-
-    To get involved with this action group, please email: [migration-and-destitution-mhp@streetsupport.net](<>) or [info@migrantdestitution.co.uk](<>)
+    William Wheeler.[](<>)
 
 
     **To donate to the fund, please visit <https://localgiving.org/charity/macc/project/migrantfundGM/>**
   id: 59f23a2bf36d285569313b49
-  contactEmail: migration-and-destitution-mhp@streetsupport.net
+  contactEmail: info@migrantdestitution.co.uk
   newsUrl: http://news.streetsupport.net/tag/migration-and-destitution/
 ---
