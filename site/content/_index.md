@@ -4,6 +4,11 @@ menu:
   main:
     name: Home
     weight: 10
+ctaBanner:
+  ctaTitle: title of event
+  ctaCopy: some text about the event
+  btnText: Sign up
+  btnUrl: https://eventbrite.com
 hero:
   image: /assets/uploads/charter-launch-2.jpg
 whatIs:

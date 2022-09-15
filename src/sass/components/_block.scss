@@ -81,6 +81,12 @@
     }
   }
 
+  &--cta-banner {
+    @include mq($from: desktop) {
+      padding: $padding * 2 0;
+    }
+  }
+
   &--image-last {
     display: flex;
     flex-direction: column-reverse;
@@ -333,4 +339,14 @@
       width: 50%;
     }
   }
+}
+
+.cta-banner {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
+
+.cta-banner__title {
+  font-size: 32px;
 }

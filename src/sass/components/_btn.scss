@@ -32,4 +32,13 @@
   &--plain {
     box-shadow: none;
   }
+
+  &--small {
+    display: inline-block;
+    padding-right: 25px;
+    padding-left: 25px;
+    outline: none;
+    text-align: center;
+    text-decoration: none!important;
+  }
 }
