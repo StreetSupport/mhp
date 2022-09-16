@@ -1,16 +1,19 @@
 ---
 title: Welcome
-menu:
-  main:
-    name: Home
-    weight: 10
-ctaBanner:
-  ctaTitle: title of event
-  ctaCopy: some text about the event
-  btnText: Sign up
-  btnUrl: https://eventbrite.com
 hero:
   image: /assets/uploads/charter-launch-2.jpg
+ctaBanner:
+  ctaTitle: Relaunch of the Manchester Homelessness Partnership - Monday 10th October
+  ctaCopy: >-
+    J﻿oin us on Monday 10th October 2022 for a day of celebration and reflection
+    on the achievements of Manchester Homelessness Partnership over the past
+    five years, as well as to plan the next steps towards ending homelessness in
+    Manchester.
+
+
+    The day will include keynote speakers from the partnership, including representatives from the city council and charitable organisations. Lunch will be provided from HMPasties, as well as the opportunity to meet with the chairs of the Action Groups, which work on specific issues around homelessness in Manchester, such as increasing employment opportunities, improving mental health provision, and supporting destitute people with no recourse to public funds.
+  btnText: Sign up
+  btnUrl: https://www.eventbrite.co.uk/e/manchester-homelessness-partnership-relaunch-tickets-414046402937
 whatIs:
   body: >-
     The Manchester Homelessness Partnership (MHP) is a network of organisations
@@ -19,11 +22,7 @@ whatIs:
     Manchester.
 
 
-    The Charter was launched in May 2016. It unites many people with personal
-    experience of homelessness with organisations from different sectors, to
-    co-produce solutions together. Over 100 people who have personal insight
-    into homelessness have been involved in the Partnership so far, many of whom
-    co-wrote the Charter.
+    The Charter was launched in May 2016. It unites many people with personal experience of homelessness with organisations from different sectors, to co-produce solutions together. Over 100 people who have personal insight into homelessness have been involved in the Partnership so far, many of whom co-wrote the Charter.
 
 
     The Charter and Partnership were created with no financial resource. Most of our work is
@@ -38,29 +37,20 @@ whosInvolved:
     Out, Reach Out to the Community, Shelter, SPIN, The Men's Room...
 
 
-    **Statutory:** Department for Work and Pensions, Greater Manchester Combined
-    Authority, Greater Manchester Police, Manchester City Council (MCC), MCC
-    Rough Sleeper Team, MCC Work and Skills team, NHS, Riverside Housing, Urban
-    Village Medical Practice, Universities... 
+    **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Manchester City Council (MCC), MCC Rough Sleeper Team, MCC Work and Skills team, NHS, Riverside Housing, Urban Village Medical Practice, Universities... 
 
 
-    **Business:** Allied London, Barclays, Bruntwood, Career Builder, CityCo.,
-    The Cooperative, Enterprise Holdings, Federation House, Laing O'Rourke,
-    Lendlease, Lloyds Banking Group, McLaren Construction, Minute Works, Network
-    Rail, Octopus Ink, pro-manchester, Space Zero, Specsavers, Tuner&Townsend,
-    Uber, Vallance Dental Centre...
+    **Business:** Allied London, Barclays, Bruntwood, Career Builder, CityCo., The Cooperative, Enterprise Holdings, Federation House, Laing O'Rourke, Lendlease, Lloyds Banking Group, McLaren Construction, Minute Works, Network Rail, Octopus Ink, pro-manchester, Space Zero, Specsavers, Tuner&Townsend, Uber, Vallance Dental Centre...
 
 
     And many more local organisations and dedicated individuals!
   heading: Who's involved?
-  subHeading: >-
-    The Manchester Homelessness Partnership currently works with the following
-    organisations:
+  subHeading: "The Manchester Homelessness Partnership currently works with the
+    following organisations:"
 getInvolved:
-  body: >-
-    There are many ways in which you can contribute to the aims of the
-    Partnership:
-  heading: 'How to get involved:'
+  body: "There are many ways in which you can contribute to the aims of the
+    Partnership:"
+  heading: "How to get involved:"
   image: /assets/uploads/womens-action-group.jpg
 howDoesItWork:
   body: >-
@@ -72,17 +62,10 @@ howDoesItWork:
     relevent organisations. 
 
 
-    We have a Partnership Board of representatives from different perspectives
-    of our city which meets to use its collective influence to remove systemic
-    blockages. We also have a Driving Group which maintains momentum, supports
-    the action groups, and protects the values of the Charter.
+    We have a Partnership Board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. We also have a Driving Group which maintains momentum, supports the action groups, and protects the values of the Charter.
 
 
-    Part of the 'glue' that holds our network together is [Street
-    Support Network](https://streetsupport.net). They
-    provide facilitation, connect people, and communicate between the
-    Partnership and out to others through the website & App. We are also linked
-    into the Greater Manchester Homelessness Action Network.
+    Part of the 'glue' that holds our network together is [Street Support Network](https://streetsupport.net). They provide facilitation, connect people, and communicate between the Partnership and out to others through the website & App. We are also linked into the Greater Manchester Homelessness Action Network.
   heading: How does it work?
   image: assets/images/how-it-works.png
 charter:
@@ -93,10 +76,8 @@ charter:
     which provide support services.
 
 
-    _How_ we do what we do is very important to us. If you would like to be part
-    of the Manchester Homelessness Partnership, please read the Charter and
-    commit to working in line with our values.
-  heading: 'Manchester Homelessness Charter:'
+    _How_ we do what we do is very important to us. If you would like to be part of the Manchester Homelessness Partnership, please read the Charter and commit to working in line with our values.
+  heading: "Manchester Homelessness Charter:"
 partnership:
   buttonText: Manchester Homelessness Strategy
   buttonUrl: /homelessness-strategy
@@ -109,29 +90,21 @@ partnership:
 
     * [Co-produced city strategy (2018-2023)](/homelessness-strategy/)
 
-    * [Language and terminology
-    guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
+    * [Language and terminology guideline](https://drive.google.com/file/d/1TQstUhsjFTopKJ4-2RZLYT8YY4py9EUj/view?usp=sharing)
 
-    * ['Storefront engagement' - guide for
-    businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
+    * ['Storefront engagement' - guide for businesses](https://drive.google.com/file/d/1313AQfdIfErrS4yw19ovjINoFUl9otG6/view)
 
-    * [Learnings from the MHP -
-    report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
+    * [Learnings from the MHP - report](https://drive.google.com/file/d/1ULsfTOathk8onEKa84lfKZn-2yQm_MCF/view?usp=sharing)
 
-    * [Best practice guideline for voluntary
-    groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
+    * [Best practice guideline for voluntary groups](https://drive.google.com/file/d/1eFjixAg4bSPa-Fq5BJ0u8cFg2I7Uoidl/view?usp=sharing) 
 
-    * [Flyer for how businesses can get
-    involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
+    * [Flyer for how businesses can get involved](https://drive.google.com/file/d/1Vo1PANC191X08k0WARgbfnuFiYPQkeCa/view)
 
-    * [Emergency accommodation
-    standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
+    * [Emergency accommodation standards](https://news.streetsupport.net/2019/09/02/safety-respect-support/)
 
-    * [Cause and consequence
-    report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
+    * [Cause and consequence report](https://drive.google.com/file/d/1Mbbcx0z3WcGPo-RTjAbJx05eVwIrw4rB/view?usp=sharing)
 
-    * [Reverse advent calendar
-    2019](https://drive.google.com/file/d/1LAIts-YJsNAj76i3A-0MjSoP3MjI0xpe/view)
+    * [Reverse advent calendar 2019](https://drive.google.com/file/d/1LAIts-YJsNAj76i3A-0MjSoP3MjI0xpe/view)
   strategy: Manchester
 whatElse:
   body: >-
@@ -140,8 +113,10 @@ whatElse:
     form of homelessness. 
 
 
-    You can find out more about these services and how you can help through:
-    [Street Support Network](http://streetsupport.net).
+    You can find out more about these services and how you can help through: [Street Support Network](http://streetsupport.net).
   heading: What else is happening?
+menu:
+  main:
+    name: Home
+    weight: 10
 ---
-
