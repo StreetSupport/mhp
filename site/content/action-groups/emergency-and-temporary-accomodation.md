@@ -19,8 +19,10 @@ content:
 
 
     Download > > [Minimum standards and vision for 2022](https://www.boothcentre.org.uk/partnerships.html)
-  contactEmail: amanda@boothcentre.org.uk
+  contactEmail: info@mhp.org.uk
   heading: Emergency and Temporary Accommodation
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
-  subHeading:
+  subHeading: Achievements of the group include drawing up the vision and minimum
+    standards, getting these adopted by the MHP and Manchester City Council and
+    they now form the basis for the commissioning of these services.
 ---
