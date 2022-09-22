@@ -7,6 +7,6 @@ content:
   subHeading: <heading to be added>
   body: <body of text to be added
   id: 59146d6f734d1d099dfdfce1
-  contactEmail: strategy-scrutiny-mhp@streetsupport.net
+  contactEmail: info@mhp.org.uk
   newsUrl: http://news.streetsupport.net/tag/strategy-scrutiny/
 ---
