@@ -24,6 +24,6 @@ content:
 
     Y﻿ou can follow Real Change MCR on Twitter [here](https://twitter.com/realchangemanc?lang=en)
   id: 57166237e4b09686f6b2c88b
-  contactEmail: real-change-mhp@streetsupport.net
+  contactEmail: info@mhp.org.uk
   newsUrl: http://news.streetsupport.net/tag/real-change-mcr/
 ---
