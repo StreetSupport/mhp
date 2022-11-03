@@ -20,12 +20,6 @@ collections:
           - {label: "Hero", name: "hero", widget: "object", fields: [
               {label: "Image", name: "image", widget: "image"}
             ]}
-          - {label: "CTA Banner", name: "ctaBanner", widget: "object", fields: [
-              {label: "Heading", name: "ctaTitle", widget: "string"},
-              {label: "Copy", name: "ctaCopy", widget: "markdown"},
-              {label: "Button text", name: "btnText", widget: "string"},
-              {label: "Button link", name: "btnUrl", widget: "string"}
-          ]}
           - {label: "What Is the MHP?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}

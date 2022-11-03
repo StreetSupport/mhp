@@ -2,18 +2,6 @@
 title: Welcome
 hero:
   image: /assets/uploads/charter-launch-2.jpg
-ctaBanner:
-  ctaTitle: Relaunch of the Manchester Homelessness Partnership - Monday 10th October
-  ctaCopy: >-
-    J﻿oin us on Monday 10th October 2022 for a day of celebration and reflection
-    on the achievements of Manchester Homelessness Partnership over the past
-    five years, as well as to plan the next steps towards ending homelessness in
-    Manchester.
-
-
-    The day will include keynote speakers from the partnership, including representatives from the city council and charitable organisations. Lunch will be provided from HMPasties, as well as the opportunity to meet with the chairs of the Action Groups, which work on specific issues around homelessness in Manchester, such as increasing employment opportunities, improving mental health provision, and supporting destitute people with no recourse to public funds.
-  btnText: Sign up
-  btnUrl: https://www.eventbrite.co.uk/e/manchester-homelessness-partnership-relaunch-tickets-414046402937
 whatIs:
   body: >-
     The Manchester Homelessness Partnership (MHP) is a network of organisations
