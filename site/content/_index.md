@@ -47,7 +47,7 @@ howDoesItWork:
     the [Actions Groups](https://mhp.org.uk/action-groups/) which tackle
     specific challenges that people who are homeless may face. Each group
     includes people who have experienced the topic in question, as well as other
-    relevent organisations. 
+    relevant organisations. 
 
 
     We have a Partnership Board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. We also have a Driving Group which maintains momentum, supports the action groups, and protects the values of the Charter.
