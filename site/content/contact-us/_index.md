@@ -4,16 +4,12 @@ layout: single
 content:
   body: >-
     To learn more about the Manchester Homelessness Partnership and how to get
-    involved, please email: [info@mhp.org.uk](<mailto: info@mhp.org.uk>)
-    
-
-    For more information about the different charities and services that make up
-    the Manchester Homelessness Partnership, please visit:
-    [www.streetsupport.net/manchester/](www.streetsupport.net/manchester/)
+    involved, you can follow us on
+    [Twitter](https://twitter.com/McrHomelessness) and [sign up to our monthly
+    newsletter](https://mhp.us17.list-manage.com/subscribe?u=8fd6e73ffa2daafb4a46d5eb5&id=5ad4233828).
 
 
-    Thank you
+    I﻿f you have any specific enquiries about the Manchester Homelessness Partnership, please email us on info@mhp.org.uk. Please note that it may take us a few weeks to respond.
   heading: Get in Touch
-  subHeading: ''
+  subHeading: ""
 ---
-
