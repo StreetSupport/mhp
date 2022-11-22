@@ -22,7 +22,7 @@ whosInvolved:
     Boaz Trust, Booth Centre, Business in the Community (BITC), Coffee4Craig,
     Cornerstones, Centrepoint North, DePaul, Greater Together Manchester,
     Inspiring Change Manchester, Justlife, Lifeshare, MASH, Mustard Tree, On the
-    Out, Reach Out to the Community, Shelter, SPIN, The Men's Room...
+    Out, Reach Out to the Community, Shelter, SPIN, The Men's Room.
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Manchester City Council (MCC), MCC Rough Sleeper Team, MCC Work and Skills team, NHS, Riverside Housing, Urban Village Medical Practice, Universities... 
