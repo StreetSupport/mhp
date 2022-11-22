@@ -8,7 +8,7 @@ hero:
   image: /assets/uploads/strategy.jpg
 about:
   body: >-
-    ![](assets/uploads/womens-action-group.jpg)
+    ![]()
 
 
     The [Manchester City Strategy](lob:https://mhp.org.uk/3e6128c3-25ff-49da-886b-99c7f018154f) for ending homelessness has three main aims:
