@@ -1,6 +1,7 @@
 ---
 action-group: yes
-title: "Emergency and Temporary Accommodation "
+title: "Emergency and Temporary Accommodation"
+slug: emergency-and-temporary-accommodation
 content:
   body: >-
     The Emergency and Temporary Accommodation Action Group aims to raise the
@@ -22,7 +23,5 @@ content:
   contactEmail: info@mhp.org.uk
   heading: Emergency and Temporary Accommodation
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
-  subHeading: Achievements of the group include drawing up the vision and minimum
-    standards, getting these adopted by the MHP and Manchester City Council and
-    they now form the basis for the commissioning of these services.
+  subHeading: 
 ---
