@@ -1,46 +1,21 @@
 ---
 action-group: yes
-title: Women’s Homelessness Involvement Group (WHIG)
+title: Digital Skills Workshops for Women
 slug: whig
 content:
-  heading: Women’s Homelessness Involvement Group (WHIG)
-  subHeading: Issues specific to women facing homelessness.
-  body: >-
-    What is the purpose of the group?
-
-
-    * To drive change towards more women’s accommodation (and women-only accommodation). 
-
-
-    What we mean by women only, is accommodation that is:
-
-
-    * Completely separate from male accommodation
-
-    * Small accommodation – a smaller building with fewer rooms
-
-    * Properly staffed and trauma informed
-
-    * To improve homeless services for women in Manchester
-
-    * Through meaningful involvement from experts by experience to ensure women’s voices are heard, listened to and acted on by services and decision makers
-
-
-    What are the aims of the group?
-
-
-    * Influence providers and commissioners
-
-    * Improve women’s emergency accommodation (and women’s experience of this)
-
-    * Influence a more joined up and gendered approach to staff training and workplace practices
-
-    * Improve service information available for women and access for women
-
-      **Why and how was the group established?**
-
-      The group was established in late 2018, after a launch event. Street Support and Manchester Homelessness Partnership (MHP) set-up the group, because they felt that there was a need for something for women. The launch event held last in 2018 brought together about 100 women, this was coordinated by Street Support and co-facilitated by them and Eve Holt. From this the women said that they wanted a women’s homelessness action group and this was taken forward by MASH and Riverside for the first few meetings.
+  heading: Digital skills workshops specific to women's needs
+  subHeading: Come and join us at the women-only Pankhurst drop-in to learn digital skills
+  body: "![The sessions are now held on the first Wednesday of each month at the
+    Pankhurst Centre drop-in for women. The sessions are user-led and begin with
+    completion of an assessment form to ensure the support we offer is specific
+    to women's needs. We offer 1-1 support on the 5 basic digital skills that
+    everyone should have. These include:  managing information, communication,
+    transacting, problem-solving and creating. We also offer support on specific
+    topics or skills that users want to learn. We provide smart phones, tablets,
+    free SIM cards with data from Vodafone, free lunch and we can also cover
+    travel expenses. ](assets/uploads/digital-skills-workshops-for-women-new.png
+    \"Digital skills workshops specific to women's needs\")"
   id: 57166268e4b09686f6b2c893
-  contactEmail: womencochairs@gmail.com
+  contactEmail: amanda.seville@stu.mmu.ac.uk
   newsUrl: http://news.streetsupport.net/tag/women/
 ---
