@@ -6,14 +6,13 @@ content:
   heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: >-
-    ![](assets/uploads/digital-skills-workshops-for-women-new.png "Digital
-    Skills Workshops for Women")
+    ![]()
 
 
     **What is the purpose of the group?**
 
 
-    * To drive change towards more women’s accommodation (and women-only accommodation)
+    * To drive change towards more women-only accommodation
 
 
     **What we mean by women-only accommodation is:**
