@@ -6,7 +6,8 @@ content:
   heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: >-
-    ![](assets/uploads/digital-skills-workshops-for-women-new.png "Digital
+    ![Digital Skills Sessions for
+    Women](assets/uploads/digital-skills-workshops-for-women-new.png "Digital
     Skills Sessions for Women")
 
 
