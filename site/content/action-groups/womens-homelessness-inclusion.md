@@ -6,6 +6,9 @@ content:
   heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: >-
+    ![]()
+
+
     What is the purpose of the group?
 
 
@@ -45,6 +48,15 @@ content:
 
 
     D﻿igital skills sessions will run on the 1st Wednesday of each month as part of the Pankhurst drop-in
+
+
+    <!--StartFragment-->
+
+
+    [Women's Drop In | The Pankhurst Trust and Manchester Women's Aid](https://www.pankhursttrust.org/get-help/womens-drop)
+
+
+    <!--EndFragment-->
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
   newsUrl: http://news.streetsupport.net/tag/women/
