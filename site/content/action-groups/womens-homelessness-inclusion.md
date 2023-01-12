@@ -47,7 +47,7 @@ content:
     **L﻿atest news:**
 
 
-    D﻿igital skills sessions will run on the 1st Wednesday of each month as part of the Pankhurst drop-in
+    D﻿igital skills sessions will run on the 1st Wednesday of each month as part of the Pankhurst drop-in from 12-2pm. For more information on this month's weekly women's-drop, please click on the link below: 
 
 
     <!--StartFragment-->
