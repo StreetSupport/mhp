@@ -48,11 +48,14 @@ content:
 
       Membership of the group is open to women and those who identify as women, including those with lived experience, volunteers and staff who are committed to involvement and influencing change that improves women's experiences of homeless services and accommodation. There is representation from a range of organisations. There is also a key aim of encouraging representation from the local authority. there are no restrictions on numbers. 
 
-      **H﻿ow does the group work?**
+      **How does the group work?**
 
       W﻿HIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, working groups and the WHIG mailing list. 
 
     **Where and when does the group meet?**
+
+
+    W﻿HIG holds monthly face to face meetings at various locations across Manchester on the 4th Wednesday of the month. We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG and can host a meeting, please contact us womencochairs@gmail.com
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
   newsUrl: http://news.streetsupport.net/tag/women/
