@@ -42,21 +42,17 @@ content:
 
       **Why and how was the group established?**
 
-      The group was established in late 2018, after a launch event. Street Support and Manchester Homelessness Partnership (MHP) set-up the group, because they felt that there was a need for something for women. The launch event held last in 2018 brought together about 100 women, this was coordinated by Street Support and co-facilitated by them and Eve Holt. From this the women said that they wanted a women’s homelessness action group and this was taken forward by MASH and Riverside for the first few meeting
+      The group was established in late 2018, after a launch event. Street Support and Manchester Homelessness Partnership (MHP) set-up the group, because they felt that there was a need for something for women. The launch event held last in 2018 brought together about 100 women, this was coordinated by Street Support and co-facilitated by them and Eve Holt. From this the women said that they wanted a women’s homelessness action group and this was taken forward bsy MASH and Riverside for the first few meetings. Since 2020 WHIG has been coordinated by The Pankhurst Trust (Incorporating Manchester Women's Aid).
 
-    **L﻿atest news:**
+      **What Does Membership look like?**
 
+      Membership of the group is open to women and those who identify as women, including those with lived experience, volunteers and staff who are committed to involvement and influencing change that improves women's experiences of homeless services and accommodation. There is representation from a range of organisations. There is also a key aim of encouraging representation from the local authority. there are no restrictions on numbers. 
 
-    D﻿igital skills sessions will run on the 1st Wednesday of each month as part of the Pankhurst drop-in from 12-2pm. For more information on this month's weekly women's-drop, please click on the link below: 
+      **H﻿ow does the group work?**
 
+      W﻿HIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, working groups and the WHIG mailing list. 
 
-    <!--StartFragment-->
-
-
-    [Women's Drop In | The Pankhurst Trust and Manchester Women's Aid](https://www.pankhursttrust.org/get-help/womens-drop)
-
-
-    <!--EndFragment-->
+    **Where and when does the group meet?**
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
   newsUrl: http://news.streetsupport.net/tag/women/
