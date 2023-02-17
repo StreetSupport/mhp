@@ -7,7 +7,7 @@ about:
     I﻿mage credit: Centre for Homelessness Impact
 
 
-    ###### There are many ways in which you can contribute to the aims of the Partnership:
+    ### There are many ways in which you can contribute to the aims of the Partnership:
 
 
     * Join an [Action Group](https://mhp.org.uk/action-groups/)  
@@ -31,7 +31,7 @@ about:
 
 
 
-    ###### Are you a community or voluntary group looking for advice or connections? 
+    ### Are you a community or voluntary group looking for advice or connections? 
 
 
     You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
