@@ -31,18 +31,10 @@ about:
 
 
 
-    ### Are you a community or voluntary group looking for advice or connections? 
+    # H﻿ow to help
 
 
-    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
-
-
-    For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk) (please note that we will respond to your email as soon as we can, but it may occasionally take a few weeks before we can get back to you).
-  heading: How to get involved
-actionPlans:
-  body: >-
-    There are lots of ways to help the Manchester Homelessness Partnership, and
-    our aim to end homelessness in Manchester in all its forms. 
+    There are lots of ways to help the Manchester Homelessness Partnership, and our aim to end homelessness in Manchester in all its forms. 
 
 
     ### Contents
@@ -107,6 +99,8 @@ actionPlans:
 
 
     For more information, visit [Manchester City Council](https://manchestercommunitycentral.org/volunteer-centre-manchester) or [Street Support](https://streetsupport.net/manchester/advice/) website. 
+
+
 
 
     #### Donate 
@@ -190,8 +184,23 @@ actionPlans:
     [Crisis campaigns](https://www.boothcentre.org.uk/donate-items.html) (national) 
 
 
-    [Citizens UK](https://www.boaztrust.org.uk/pages/donate) (national)
-  heading: How to Help
+    [Citizens UK](https://www.boaztrust.org.uk/pages/donate) (national) 
+
+
+
+
+    ### Are you from a community or voluntary group looking for advice or connections? 
+
+
+    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
+
+
+    For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk) (please note that we will respond to your email as soon as we can, but it may occasionally take a few weeks before we can get back to you).
+  heading: How to get involved
+actionPlans:
+  body: There are lots of ways to help the Manchester Homelessness Partnership,
+    and our aim to end homelessness in Manchester in all its forms.
+  heading: How to help
 strategyCta:
   title: Join an Action Group
   url: https://mhp.org.uk/action-groups/
