@@ -88,6 +88,11 @@ howToHelp:
     People often experience feelings of isolation, increasing their chances of taking drugs or experiencing mental health problems. Sometimes, issues that people believe cause homelessness are actually a result of homelessness, such as substance abuse and poor mental health. 
 
 
+
+
+    ## Learn more about homelessness in Manchester:
+
+
     #### Manchester’s Homelessness Strategy 
 
 
