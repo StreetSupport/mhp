@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 hero:
-  image: assets/uploads/rs210_centreforhomelessnessmerythovers_101-scr.jpg
+  image: assets/uploads/rs220_centreforhomelessnessmerythovers_101.jpg
 about:
   body: >-
     I﻿mage credit: Centre for Homelessness Impact
