@@ -5,7 +5,7 @@ menu:
     name: Homelessness in Manchester
     weight: 150
 hero:
-  image: /assets/images/ag-photo.jpg
+  image: assets/uploads/thinkbig.jfif
 about:
   body: >-
     <!--StartFragment-->
