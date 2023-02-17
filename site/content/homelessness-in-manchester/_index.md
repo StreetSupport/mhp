@@ -11,15 +11,13 @@ about:
     <!--StartFragment-->
 
 
-    #### Learn about our vision for ending homelessness in Manchester, and our guiding values. 
+    ## Learn about our vision for ending homelessness in Manchester, and our guiding values. 
 
 
     At the centre of the Manchester Homelessness Partnership is our Charter, which unites people, organisations, and businesses together with one shared vision and set of values. The Charter was co-created by people experiencing homelessness and the organisations which provide support services. 
 
 
     How we do what we do is very important to us. If you would like to be part of the Manchester Homelessness Partnership, please read the Charter and commit to working in line with our values. 
-
-
 
 
     R﻿ead the full Charter: https://charter.streetsupport.net/manchester-homelessness-charter.pdf 
@@ -53,10 +51,10 @@ howToHelp:
     Often people think about people who are street homelessness or rough sleeping, but this represents the smallest segment of the homeless population (2-5% in Manchester before Covid). Other circumstances include people who are in emergency shelters, temporary accommodation, sofa-surfing, unsafe/ substandard housing, and those who are at risk of being homeless. 
 
 
-    #### What are the causes and consequences of homelessness in Manchester? 
+    ## What are the causes and consequences of homelessness in Manchester? 
 
 
-    ###### Causes 
+    #### Causes 
 
 
     People become homeless for lots of different reasons. There are social causes of homelessness, such as a lack of affordable housing, poverty and unemployment. For many, life events like a relationship breaking down, losing a job, mental or physical health problems, or substance misuse push people into homelessness. 
@@ -75,9 +73,7 @@ howToHelp:
     3. Domestic Abuse 
 
 
-
-
-    ###### Consequences 
+    #### Consequences 
 
 
     Evidence suggests that the longer someone is homeless, the more complex their problems become and the more difficult it can be to get back on their feet. 
@@ -92,24 +88,16 @@ howToHelp:
     People often experience feelings of isolation, increasing their chances of taking drugs or experiencing mental health problems. Sometimes, issues that people believe cause homelessness are actually a result of homelessness, such as substance abuse and poor mental health. 
 
 
-     
-
-
     #### Manchester’s Homelessness Strategy 
 
 
     Read the [Manchester Homelessness Strategy (2018 – 2023)](https://www.manchester.gov.uk/downloads/download/5665/homelessness_strategy), a co-produced five-year plan for making homelessness in Manchester rare, brief and one-off.
 
 
-
-
     #### Learning from the MHP 
 
 
     Read Homeless Link’s [*Manchester Homelessness Partnership Toolkit* (2018)](http://cdn-homelesslink-production.s3-website-eu-west-1.amazonaws.com/media/documents/Manchester_Homeless_Partnership_Toolkit_JULY.pdf), guidance for building grassroots responses for homelessness.
-
-
-     
 
 
     #### Reports on homelessness in Manchester 
@@ -119,8 +107,6 @@ howToHelp:
 
 
     link to Shelter & Homeless Link research pages  
-
-
 
 
     #### What’s happening in Greater Manchester?  
