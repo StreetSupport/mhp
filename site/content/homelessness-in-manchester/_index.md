@@ -48,7 +48,13 @@ howToHelp:
     <!--StartFragment-->
 
 
-    Often people think about people who are street homelessness or rough sleeping, but this represents the smallest segment of the homeless population (2-5% in Manchester before Covid). Other circumstances include people who are in emergency shelters, temporary accommodation, sofa-surfing, unsafe/ substandard housing, and those who are at risk of being homeless. 
+    Manchester has some of the highest levels of homelessness in the UK – according to statistics published by Shelter in January 2023, Manchester ranks third-highest in the country for people experiencing homelessness per capita, with around 7,407 people (one in 74 people) experiencing homelessness.
+
+
+    Often people think about people who are street homelessness or rough sleeping, but this represents the smallest segment of the homeless population (2-5% in Manchester before Covid). Other circumstances include people who are in emergency shelters, temporary accommodation, sofa-surfing, and unsafe/ substandard housing.
+
+
+    <!--EndFragment-->
 
 
     ## What are the causes and consequences of homelessness in Manchester? 
@@ -86,8 +92,6 @@ howToHelp:
 
 
     People often experience feelings of isolation, increasing their chances of taking drugs or experiencing mental health problems. Sometimes, issues that people believe cause homelessness are actually a result of homelessness, such as substance abuse and poor mental health. 
-
-
 
 
     ## Learn more about homelessness in Manchester:
