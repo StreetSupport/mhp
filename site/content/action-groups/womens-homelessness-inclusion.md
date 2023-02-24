@@ -56,6 +56,12 @@ content:
 
 
     W﻿HIG holds monthly face to face meetings at various locations across Manchester on the 4th Wednesday of the month. We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG and can host a meeting, please contact us womencochairs@gmail.com
+
+
+    **Women’s Homelessness Involvement Group’s Political Asks**
+
+
+    We at the Women’s Homelessness Involvement Group (WHIG) have developed some [key political asks](https://mhp.org.uk/assets/uploads/political-asks_sketches-whig.pdf). These are based on what women who are experiencing homelessness and stakeholders from frontline services have told us are the gaps in provision and barriers to accessing support. Through a coproduced approach with women, we have developed solutions to address those gaps and identified what is needed to improve homelessness services for women.
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
   newsUrl: http://news.streetsupport.net/tag/women/
