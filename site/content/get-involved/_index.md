@@ -4,7 +4,6 @@ menu:
   main:
     name: Get Involved
     weight: 50
-title: Get Involved
 hero:
   image: assets/uploads/rs220_centreforhomelessnessmerythovers_101.jpg
 about:
