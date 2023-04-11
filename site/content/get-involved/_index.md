@@ -2,7 +2,7 @@
 title: Get Involved
 menu:
   main:
-    name: Get Involved
+    name: get-involved
     weight: 50
 title: Get Involved
 hero:
