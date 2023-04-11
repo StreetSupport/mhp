@@ -66,9 +66,9 @@ collections:
               {label: "Sub-Heading", name: "subHeading", widget: "string", required: false},
               {label: "Body", name: "body", widget: "markdown"}
             ]}
-      - file: "site/content/homelessness-strategy/_index.md"
-        label: "Homelessness Strategy"
-        name: "homelessness-strategy"
+      - file: "site/content/get-involved/_index.md"
+        label: "Get Involved"
+        name: "get-involved"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
