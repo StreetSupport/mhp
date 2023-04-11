@@ -5,7 +5,7 @@ menu:
     name: Get Involved
     weight: 50
 hero:
-  image: assets/uploads/rs220_centreforhomelessnessmerythovers_101.jpg
+  image: /assets/uploads/rs220.jpg
 about:
   body: >-
     I﻿mage credit: Centre for Homelessness Impact
