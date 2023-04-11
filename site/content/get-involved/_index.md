@@ -33,9 +33,7 @@ about:
     * To share a relevant opportunity or promote an event please email [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org)
 
 
-
-
-    # H﻿ow to help
+    ## H﻿ow to help
 
 
     There are lots of ways to help the Manchester Homelessness Partnership, and our aim to end homelessness in Manchester in all its forms. 
@@ -63,9 +61,6 @@ about:
 
 
     Advocacy and campaigns 
-
-
-     
 
 
     #### Looking for advice? 
@@ -105,8 +100,6 @@ about:
     For more information, visit [Manchester City Council](https://manchestercommunitycentral.org/volunteer-centre-manchester) or [Street Support](https://streetsupport.net/manchester/advice/) website. 
 
 
-
-
     #### Donate 
 
 
@@ -134,9 +127,6 @@ about:
     [Mustard Tree](https://mustardtree.org.uk/support-us/donate-money/) - to help combat poverty, inequality and homelessness
 
 
-     
-
-
     #### Offers of items 
 
 
@@ -155,9 +145,7 @@ about:
     [Mustard Tree](https://mustardtree.org.uk/support-us/donate-goods/) – donate goods and furniture 
 
 
-    Please check each organisation's own website for an up-to-date list of the most useful items needed. For unusual, culturally-specific or high-volume offers please email [info@mhp.org.uk](https://www.crisis.org.uk/get-involved/campaign/) [/ [info@mcrcommunitycentral.org]](mailto:info@volunteercentremanchester.co.uk) and we will try to signpost you to a relevant specialist organisation in liaison with [Macc](https://www.boothcentre.org.uk/donate.html). 
-
-
+    Please check each organisation's own website for an up-to-date list of the most useful items needed. For unusual, culturally-specific or high-volume offers please email [info@mhp.org.uk](https://www.crisis.org.uk/get-involved/campaign/) [/ \[info@mcrcommunitycentral.org]](mailto:info@volunteercentremanchester.co.uk) and we will try to signpost you to a relevant specialist organisation in liaison with [Macc](https://www.boothcentre.org.uk/donate.html). 
 
 
     #### Volunteer 
@@ -169,14 +157,10 @@ about:
     There, you can view an up to date [list of volunteering opportunities](https://www.coffee4craig.org/post/winter-wish-lists?area_of_interest_1112%5B%5D=homeless_and_housing&postal_code=&combine_2=) supporting Housing and Homelessness.  
 
 
-
-
     #### Offers of venue space 
 
 
     We are always in need of regular and ad-hoc premises and venue spaces in central Manchester for our Action Groups to meet in, as well as larger venues to host partnership-wide events. Please email [info@mhp.org.uk](tel:03005000914) with details. 
-
-
 
 
     #### Advocacy and campaigns 
@@ -191,9 +175,7 @@ about:
     [Citizens UK](https://www.boaztrust.org.uk/pages/donate) (national) 
 
 
-
-
-    ### Are you from a community or voluntary group looking for advice or connections? 
+    ### Are you from a community or voluntary group looking for advice or connections?
 
 
     You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
