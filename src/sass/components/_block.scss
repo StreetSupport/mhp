@@ -240,6 +240,12 @@
   .block--right-image & {
     background-color: transparent;
   }
+
+  &.block--fullheight {
+    @include mq($from: desktop) {
+      padding: 100px 20px !important;
+    }
+  }
 }
 
 .block__header-title {

@@ -14,7 +14,7 @@
   </div>
 </section>
 
-<section class="block block--popout">
+<section class="block">
   <div class="container">
     <header class="block__header">
       <h1 class="block__header-title">{{ .Params.whatIs.heading }}</h1>
@@ -28,16 +28,34 @@
   </div>
 </section>
 
-<section class="block">
-  <div class="block__image block__image--bg" style="background-image: url(/assets/images/streetwise-opera.jpg)">
-    <div class="container">
-      <header class="block__header">
-        <h1 class="block__header-title">{{ .Params.whosInvolved.heading }}</h1>
-        {{ if (ne .Params.whosInvolved.subHeading nil) }}
-        <p class="block__header-sub-title">{{ .Params.whosInvolved.subHeading }}</p>
-        {{ end }}
-      </header>
+<section class="block block--plain block--left-image block--white block--image-last">
+  <div class="block__image">
+    <img src="/assets/images/how-it-works.png" alt="how it works image" class="block__image-image block__image-image--bordered">
+  </div>
+  <div class="container">
+    <header class="block__header">
+      <h1 class="block__header-title">{{ .Params.howDoesItWork.heading }}</h1>
+      {{ if (ne .Params.howDoesItWork.subHeading nil) }}
+      <p class="block__header-sub-title">{{ .Params.howDoesItWork.subHeading }}</p>
+      {{ end }}
+    </header>
+  </div>
+    
+  <div class="container">
+    <div class="block__body">
+      {{ partial "bodyMarkdown.html" .Params.howDoesItWork.body }}
     </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="container">
+    <header class="block__header">
+      <h1 class="block__header-title">{{ .Params.whosInvolved.heading }}</h1>
+      {{ if (ne .Params.whosInvolved.subHeading nil) }}
+      <p class="block__header-sub-title">{{ .Params.whosInvolved.subHeading }}</p>
+      {{ end }}
+    </header>
   </div>
   <div class="container">
     <div class="block__body block__body--drop-shadow">
@@ -46,138 +64,14 @@
   </div>
 </section>
 
-<section class="block block--plain block--left-image block--left-image-is-bg">
-  <div class="block__image" style="background-image: url({{ .Params.getInvolved.image }})">
-
-  </div>
+<section class="block block--plain">
   <div class="container">
-    {{ if ( ne .Params.getInvolved.heading nil ) }}
-    <header class="block__header">
+    <div class="block__body">
       <h1 class="block__header-title">{{ .Params.getInvolved.heading }}</h1>
-    </header>
-    {{ end }}
-    <div class="block__body">
       {{ partial "bodyMarkdown.html" .Params.getInvolved.body }}
-
-      <ul class="icon-links">
-        <li class="icon-links__link icon-links__link">
-          <a href="/action-groups">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "clapper-board" ) }}
-            </div>
-            Join an Action Group
-          </a>
-        </li>
-        <li class="icon-links__link icon-links__link">
-          <a href="https://www.linkedin.com/groups/8668257/">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "briefcase" ) }}
-            </div>
-            Join the Business Group
-          </a>
-        </li>
-        <li class="icon-links__link icon-links__link">
-          <a href="https://teamup.com/ksc7ge5aga5pnjddjp">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "calendar" ) }}
-            </div>
-            Find out what's on
-          </a>
-        </li>
-        <li class="icon-links__link icon-links__link">
-          <a href="http://eepurl.com/h9uwxD">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "letter" ) }}
-            </div>
-            Join our mailing list
-          </a>
-        </li>
-        <li class="icon-links__link icon-links__link">
-          <a href="/contact-us/">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "pencil" ) }}
-            </div>
-            Contact us
-          </a>
-        </li>
-        <li class="icon-links__link icon-links__link">
-          <a href="https://streetsupport.net/give-help/help/?postcode=M1&type=All">
-            <div class="icon-links__icon-container">
-              {{ partial "icon" (dict "context" . "iconName" "hand" ) }}
-            </div>
-            Donate or volunteer
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</section>
-
-<section class="block block--plain block--left-image block--white block--image-last">
-  <div class="block__image">
-    <img class="block__image-image block__image-image--bordered" src="/assets/images/how-it-works.png" />
-  </div>
-  <div class="container">
-    <header class="block__header">
-      <h1 class="block__header-title">{{ .Params.howDoesItWork.heading }}</h1>
-    </header>
-    <div class="block__body">
-      {{ partial "bodyMarkdown.html" .Params.howDoesItWork.body }}
-    </div>
-  </div>
-</section>
-
-<section class="block">
-  <div class="block__image block__image--bg" style="background-image: url(/assets/images/charter-launch-1.jpg)">
-    <div class="container">
-      <header class="block__header">
-        <h1 class="block__header-title">{{ .Params.charter.heading }}</h1>
-        {{ if (ne .Params.charter.subHeading nil) }}
-        <p class="block__header-sub-title">{{ .Params.charter.subHeading }}</p>
-        {{ end }}
-      </header>
-    </div>
-  </div>
-  <div class="container">
-    <div class="block__body block__body--drop-shadow">
-      <aside class="block__aside">
-        <img src="/assets/images/charter-small.png" />
-      </aside>
-      <div>
-        {{ partial "bodyMarkdown.html" .Params.charter.body }}
-
-        <div class="btns">
-          <a class="btn btn--mhp-green" href="https://charter.streetsupport.net/read-the-charter/">Read Charter</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- <section class="block block--plain">
-  <div class="container">
-    <header class="block__header">
-      <h1 class="block__header-title">{{ .Params.partnership.heading }}</h1>
-    </header>
-        <div class="block__body">
-            {{ partial "bodyMarkdown.html" .Params.partnership.resources }}
-        </div>
-    </div>
-</section> -->
-
-<section class="block block--plain block--right-image block--image-last"
-  style="background-image: url(/assets/images/ssn-on-laptop.png)">
-  <div class="container">
-    <header class="block__header">
-      <h1 class="block__header-title">{{ .Params.whatElse.heading }}</h1>
-    </header>
-    <div class="block__body">
-        {{ partial "bodyMarkdown.html" .Params.whatElse.body }}
-
-      <div class="btns">
-        <a class="btn btn--mhp-yellow" href="https://streetsupport.net/find-help">Find Help</a>
-        <a class="btn btn--mhp-yellow" href="https://streetsupport.net/give-help">Give Help</a>
-      </div>
+      <h2 class="h2"><a href="/get-involved">Get Involved</a></h2>
+      <h2 class="h2"><a href="https://mhp.us17.list-manage.com/subscribe?u=8fd6e73ffa2daafb4a46d5eb5&id=5ad4233828">Subscribe</a> to our monthly newsletter for updates</h2>
+      <h2 class="h2"><a href="https://twitter.com/McrHomelessness">Follow us</a> on twitter</h2>
     </div>
   </div>
 </section>
