@@ -83,7 +83,7 @@ collections:
           - {label: "Cause and consequence", name: "causeAndConsequence", widget: "object", fields: [
             {label: "body", name: "body", widget: "markdown"}
           ]}
-          - {label: "WHIG", name: "whig", widget: "object", fields [
+          - {label: "WHIG", name: "whig", widget: "object", fields: [
             {label: "body", name: "body", widget: "markdown"}
           ]}
           - {label: "Emergency accommodation standards", name: "emergAccomStandards", widget: "object", fields: [
