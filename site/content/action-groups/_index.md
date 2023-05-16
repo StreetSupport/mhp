@@ -11,5 +11,5 @@ whatIs:
 joinAnActionGroup:
   heading: Join an Action Group
   body: >-
-    If there is an issue not listed here which you think worthy of an action group, please email your suggestions to [actiongroups@streetsupport.net](actiongroups@streetsupport.net).
+    If there is an issue not listed here which you think worthy of an action group, please email your suggestions to [info@mhp.org.uk](info@mhp.org.uk).
 ---
