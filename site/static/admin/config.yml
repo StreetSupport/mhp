@@ -67,7 +67,7 @@ collections:
             {label: "Heading", name: "heading", widget: "string"},
             {label: "body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Join an action group", name: "joinAnActionGroup", widget: "object", fields [
+          - {label: "Join an action group", name: "joinAnActionGroup", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "body", name: "body", widget: "markdown"}
           ]}
@@ -76,17 +76,17 @@ collections:
         name: "action-group-resources"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Headings", name: "content", object: "widget", fields: [
-            {label: "Heading", name: "heading", object: "string"},
-            {label: "Sub-heading", name: "subHeading", object: "string"}
+          - {label: "Headings", name: "content", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Sub-heading", name: "subHeading", widget: "string"}
           ]}
-          - {label: "Cause and consequence", name: "causeAndConsequence", widget: "object", fields [
+          - {label: "Cause and consequence", name: "causeAndConsequence", widget: "object", fields: [
             {label: "body", name: "body", widget: "markdown"}
           ]}
           - {label: "WHIG", name: "whig", widget: "object", fields [
             {label: "body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Emergency accommodation standards", name: "emergAccomStandards", widget: "object", fields [
+          - {label: "Emergency accommodation standards", name: "emergAccomStandards", widget: "object", fields: [
             {label: "body", name: "body", widget: "markdown"}
           ]}
       - file: "site/content/charter/_index.md"
@@ -95,7 +95,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object" [
-            {label: "Image (1024x400px)", name: "image", object: "image"}
+            {label: "Image (1024x400px)", name: "image", widget: "image"}
           ]}
           - {label: "About", name: "about", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
@@ -154,7 +154,7 @@ collections:
         name: "how-to-help"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Hero", name: "hero", widget: "object", fields [
+          - {label: "Hero", name: "hero", widget: "object", fields: [
             {label: "Image", name: "image", widget: "image"}
           ]}
           - {label: "About", name: "about," widget: "object", fields: [
