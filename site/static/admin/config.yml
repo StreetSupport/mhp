@@ -118,22 +118,22 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Link", name: "link", widget: "string"}
-            ]}
+            ]},
             {label: "Guideline two", name: "guidelineTwo", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Link", name: "link", widget: "string"}
-            ]}
+            ]},
             {label: "Guideline three", name: "guidelineThree", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Link", name: "link", widget: "string"}
-            ]}
+            ]},
             {label: "Guideline four", name: "guidelineFour", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
               {label: "Link", name: "link", widget: "string"}
-            ]}
+            ]},
             {label: "Guideline five", name: "guidelineFive", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"},
