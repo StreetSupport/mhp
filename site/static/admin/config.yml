@@ -94,7 +94,7 @@ collections:
         name: "charter"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Hero", name: "hero", widget: "object" [
+          - {label: "Hero", name: "hero", widget: "object", fields: [
             {label: "Image (1024x400px)", name: "image", widget: "image"}
           ]}
           - {label: "About", name: "about", widget: "object", fields: [
