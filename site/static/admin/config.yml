@@ -157,7 +157,7 @@ collections:
           - {label: "Hero", name: "hero", widget: "object", fields: [
             {label: "Image", name: "image", widget: "image"}
           ]}
-          - {label: "About", name: "about," widget: "object", fields: [
+          - {label: "About", name: "about", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "Body", name: "body", widget: "markdown"}
           ]}
