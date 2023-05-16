@@ -1,5 +1,5 @@
 ---
-title: Get Involved
+title: How to Help
 hero:
   image: /assets/uploads/rs220.jpg
 about:

@@ -71,7 +71,7 @@ collections:
             {label: "Heading", name: "heading", widget: "string"},
             {label: "body", name: "body", widget: "markdown"}
           ]}
-      - file: "site/content/action-groups/_index.md"
+      - file: "site/content/action-groups-resources/_index.md"
         label: "Action group resources"
         name: "action-group-resources"
         fields:
@@ -146,7 +146,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "About", name: "about", widget: "object", fields: [
-            {label: "Title", name: "title", widget: "string"},
+            {label: "Heading", name: "heading", widget: "string"},
             {label: "Body", name: "body", widget: "markdown"}
           ]}
       - file: "site/content/how-to-help/_index.md"
@@ -161,7 +161,7 @@ collections:
             {label: "Heading", name: "heading", widget: "string"},
             {label: "Body", name: "body", widget: "markdown"}
           ]}
-      - file: "site/content/resources/_index.md"
+      - file: "site/content/our-resources/_index.md"
         label: Our resources
         name: our-resources
         fields:

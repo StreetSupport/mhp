@@ -4,7 +4,7 @@ guidelines:
   body: >-
     Best practice for working with and supporting people experiencing homelessness, created by partners and external organisations.
   heading: Guidelines
-GuidelineList:
+guidelineList:
   guidelineOne:
     body: >-
       Co-production is when professionals and people with experience of using their services, work together to design and run the service.
