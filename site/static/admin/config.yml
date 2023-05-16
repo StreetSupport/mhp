@@ -71,7 +71,7 @@ collections:
             {label: "Heading", name: "heading", widget: "string"},
             {label: "body", name: "body", widget: "markdown"}
           ]}
-      - file: "site/content/action-groups-resources/_index.md"
+      - file: "site/content/action-group-resources/_index.md"
         label: "Action group resources"
         name: "action-group-resources"
         fields:
