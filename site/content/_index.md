@@ -34,10 +34,9 @@ whosInvolved:
   subHeading: "The Manchester Homelessness Partnership currently works with the
     following organisations:"
 getInvolved:
-  body: "There are many ways in which you can contribute to the aims of the
-    Partnership:"
+  body: >-
+    There are many ways in which you can contribute to the aims of the Partnership:
   heading: "How to get involved:"
-  image: /assets/uploads/womens-action-group.jpg
 howDoesItWork:
   body: >-
     At the heart of the Partnership are our
@@ -55,8 +54,4 @@ howDoesItWork:
     We are also linked into the [Greater Manchester Homelessness Action Network](https://www.gmhan.net/).
   heading: How does it work?
   image: assets/images/how-it-works.png
-menu:
-  main:
-    name: Home
-    weight: 10
 ---

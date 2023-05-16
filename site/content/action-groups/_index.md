@@ -1,9 +1,5 @@
 ---
 title: Action Groups
-menu:
-  main:
-    name: Action Groups
-    weight: 100
 hero:
   image: /assets/images/womens-ag.jpg
   heading: Action Groups

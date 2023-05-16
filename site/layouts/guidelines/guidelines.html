@@ -1,0 +1,74 @@
+<!doctype html>
+<html class="no-js single" lang="en-GB" xmlns:fb="http://ogp.me/ns/fb#">
+{{- partial "head.html" . -}}
+
+<body>
+  {{- partial "header.html" . -}}
+  <main id="main" class="main">
+    <section class="block">
+      <div {{ if(eq .Params.hero.image nil) }} class="block__image block__image--bg block__image--bg-missing-image"
+        {{ else }} class="block__image block__image--bg" {{ end }}
+        {{ if (ne .Params.hero.image nil) }} style="background-image: url({{ .Params.hero.image }})" {{ end }}>
+        <div class="container">
+          <header class="block__header">
+            <h1 class="block__header-title">{{ .Params.guidelines.heading }}</h1>
+            {{ if (ne .Params.guidelines.subHeading nil) }}
+            <p class="block__header-sub-title">{{ .Params.guidelines.subHeading }}</p>
+            {{ end }}
+          </header>
+        </div>
+      </div>
+      <div class="container">
+        <div class="block__body block__body--drop-shadow">
+          {{ partial "bodyMarkdown.html" .Params.guidelines.body }}
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="container">
+        <header class="block__header">
+          <h1 class="block__header-title"></h1>
+        </header>
+        <div class="block__body">
+          <div class="ctas">
+
+            <div class="guideline-cta">
+              <h1 class="h2">{{ .Params.guidelineList.guidelineOne.heading }}</h1>
+              <p>{{ partial "bodyMarkdown.html" .Params.guidelineList.guidelineOne.body }}</p>
+              <a href="{{ .Params.guidelineList.guidelineOne.link }}" target="_blank"  class="btn btn--mhp-yellow cta__link">Read more</a>
+            </div>
+
+            <div class="guideline-cta">
+              <h1 class="h2">{{ .Params.guidelineList.guidelineTwo.heading }}</h1>
+              <p>{{ partial "bodyMarkdown.html" .Params.guidelineList.guidelineTwo.body }}</p>
+              <a href="{{ .Params.guidelineList.guidelineTwo.link }}" target="_blank"  class="btn btn--mhp-yellow cta__link">Read more</a>
+            </div>
+
+            <div class="guideline-cta">
+              <h1 class="h2">{{ .Params.guidelineList.guidelineThree.heading }}</h1>
+              <p>{{ partial "bodyMarkdown.html" .Params.guidelineList.guidelineThree.body }}</p>
+              <a href="{{ .Params.guidelineList.guidelineThree.link }}" target="_blank"  class="btn btn--mhp-yellow cta__link">Read more</a>
+            </div>
+
+            <div class="guideline-cta">
+              <h1 class="h2">{{ .Params.guidelineList.guidelineFour.heading }}</h1>
+              <p>{{ partial "bodyMarkdown.html" .Params.guidelineList.guidelineFour.body }}</p>
+              <a href="{{ .Params.guidelineList.guidelineFour.link }}" target="_blank"  class="btn btn--mhp-yellow cta__link">Read more</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  {{ $footer := .Site.GetPage "_footer.md" }}
+  {{ partial "footer.html" (dict "footer" $footer) }}
+
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
+</html>

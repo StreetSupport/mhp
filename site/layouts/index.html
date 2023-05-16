@@ -48,7 +48,7 @@
   </div>
 </section>
 
-<section class="block">
+<section id="whos-involved" class="block">
   <div class="container">
     <header class="block__header">
       <h1 class="block__header-title">{{ .Params.whosInvolved.heading }}</h1>
@@ -59,19 +59,34 @@
   </div>
   <div class="container">
     <div class="block__body block__body--drop-shadow">
+      <div class="logos">
+        <a href="https://www.barnabus-manchester.org.uk/" target="_blank"><img class="logo" src="/assets/images/barnabus-logo.png" alt="barnabus logo"></a>
+        <a href="https://www.boothcentre.org.uk/" target="_blank"><img class="logo" src="/assets/images/booth-centre-logo.jpg" alt="booth centre logo"></a>
+        <a href="https://macc.org.uk/home" target="_blank"><img class="logo" src="/assets/images/macc-logo.jpg" alt="macc logo"></a>
+        <a href="https://www.manchester.gov.uk/" target="_blank"><img class="logo" src="/assets/images/manchester-city-council-logo.jpg" alt="mcc logo"></a>
+        <a href="https://england.shelter.org.uk/" target="_blank"><img class="logo" src="/assets/images/shelter-gm-logo.jpg" alt="shelter logo"></a>
+      </div>
       {{ partial "bodyMarkdown.html" .Params.whosInvolved.body }}
     </div>
   </div>
 </section>
 
-<section class="block block--plain">
+<section class="block">
   <div class="container">
-    <div class="block__body">
+    <div class="block__header">
       <h1 class="block__header-title">{{ .Params.getInvolved.heading }}</h1>
+    </div>
+    <div class="block__header-body">
       {{ partial "bodyMarkdown.html" .Params.getInvolved.body }}
-      <h2 class="h2"><a href="/get-involved">Get Involved</a></h2>
-      <h2 class="h2"><a href="https://mhp.us17.list-manage.com/subscribe?u=8fd6e73ffa2daafb4a46d5eb5&id=5ad4233828">Subscribe</a> to our monthly newsletter for updates</h2>
-      <h2 class="h2"><a href="https://twitter.com/McrHomelessness">Follow us</a> on twitter</h2>
+      <div>
+        <a class="btn btn--mhp-green btn--small"
+        href="/get-involved">Get Involved</a>
+        <a class="btn btn--mhp-yellow btn--small"
+        href="https://mhp.us17.list-manage.com/subscribe?u=8fd6e73ffa2daafb4a46d5eb5&id=5ad4233828">Subscribe to newsletter</a>
+        <a href="https://twitter.com/McrHomelessness?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @McrHomelessness</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <br>
+        <br>
+      </div>
     </div>
   </div>
 </section>
