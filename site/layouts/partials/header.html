@@ -8,23 +8,45 @@
   </div>
 
   <nav class="nav">
-    <a href="#" data-targetnavlist="#main-nav-list" data-targetmaincont="#main" class="js-nav-toggle nav__toggle" aria-label="Toggle Navigation">
-      <i class="icon-bar"></i>
-      <i class="icon-bar icon-bar-short"></i>
-      <i class="icon-bar"></i>
-    </a>
-    <div class="container">
-      <ul id="main-nav-list" class="nav__list">
-        {{ $currentPage := . }}
-        {{ range sort .Site.Menus.main ".Weight" }}
-        <li class="nav__item {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}nav__item--active{{ end }}">
-          <a class="nav__link" href="{{ .URL }}">
-            {{ .Pre }}
-            <span>{{ .Name }}</span>
-          </a>
-        </li>
-        {{ end }}
-      </ul>
+    <div class="navbar">
+      <a class="nav-link" href="/">Home</a>
+      <div class="dropdown">
+        <button onclick="window.location='/action-groups'" class="dropbtn">Action Groups
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="/action-groups/arts-and-heritage">Arts and Heritage</a>
+          <a href="/action-groups/co-production">Co-production</a>
+          <a href="/action-groups/emergency-and-temporary-accommodation">Emergency and Temporary Accommodation</a>
+          <a href="/action-groups/employement/">Employment</a>
+          <a href="/action-groups/mental-health">Mental Health</a>
+          <a href="/action-groups/migration-and-destitution">Migration and Destitution Fund</a>
+          <a href="/action-groups/non-uk-nationals">Non-UK Nationals</a>
+          <a href="/action-groups/preventing-homelessness">Preventing Homelessness</a>
+          <a href="/action-groups/real-change-mcr">Real Change MCR</a>
+          <a href="/action-groups/strategy-scrutiny">Strategy Scrutiny</a>
+          <a href="/action-groups/womens-homelessness-inclusion">Women's Homelessness</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <button onclick="window.location='/get-involved'" class="dropbtn">Get Involved
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="/how-to-help">How to Help</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <button onclick="window.location='/our-resources'" class="dropbtn">Resources
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="/charter">Manchester Homelessness Charter</a>
+          <a href="/action-group-resources">Action Group Resources</a>
+          <a href="/homelessness-in-manchester">Learn about homelessness in Manchester</a>
+          <a href="/guidelines">Guidelines</a>
+        </div>
+      </div>
     </div>
   </nav>
 </header>

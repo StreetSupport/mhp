@@ -1,0 +1,45 @@
+<!doctype html>
+<html class="no-js single" lang="en-GB" xmlns:fb="http://ogp.me/ns/fb#">
+{{- partial "head.html" . -}}
+
+<body>
+  {{- partial "header.html" . -}}
+  <main id="main" class="main">
+    <section class="block">
+      <div {{ if(eq .Params.hero.image nil) }} class="block__image block__image--bg block__image--bg-missing-image"
+        {{ else }} class="block__image block__image--bg" {{ end }}
+        {{ if (ne .Params.hero.image nil) }} style="background-image: url({{ .Params.hero.image }})" {{ end }}>
+        <div class="container">
+          <header class="block__header">
+            <h1 class="block__header-title">{{ .Params.content.heading }}</h1>
+            {{ if (ne .Params.content.subHeading nil) }}
+            <p class="block__header-sub-title">{{ .Params.content.subHeading }}</p>
+            {{ end }}
+          </header>
+        </div>
+      </div>
+      <div class="container">
+        <div class="block__body block__body--drop-shadow">
+          <img style="float: left; width: 250px; padding: 20px" src="/assets/images/c-and-c-reports.jpg" alt="causes and consequences image" class="block__image-image">
+          {{ partial "bodyMarkdown.html" .Params.causeAndConsequence.body }}
+          <br>
+          <br>
+          <img style="float: right; width: 500px;" src="/assets/images/whig-pa.jpg" alt="whig political asks image" class="block__image-image">
+          {{ partial "bodyMarkdown.html" .Params.whig.body }}
+          <img style="float: right; width: 300px;" src="/assets/images/emerg-accom-standards.png" alt="emergency accommodation standards image" class="block__image-image">
+          {{ partial "bodyMarkdown.html" .Params.emergAccomStandards.body }}
+        </div>
+      </div>
+    </section>
+
+  </main>
+  {{ $footer := .Site.GetPage "_footer.md" }}
+  {{ partial "footer.html" (dict "footer" $footer) }}
+
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
+</html>

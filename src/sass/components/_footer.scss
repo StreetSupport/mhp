@@ -4,6 +4,11 @@
   padding: $padding;
 }
 
+.footer-column {
+  display: flex;
+  justify-content: space-between
+}
+
 .street-support {
   display: flex;
   align-items: center;

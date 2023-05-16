@@ -18,11 +18,16 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Image", name: "image", widget: "image"}
+              {label: "Image (1024x542px)", name: "image", widget: "image"}
             ]}
           - {label: "What Is the MHP?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
+            ]}
+          - {label: "How Does it Work?", name: "howDoesItWork", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Image", name: "image", widget: "image"}
             ]}
           - {label: "Who's Involved?", name: "whosInvolved", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
@@ -31,39 +36,6 @@ collections:
             ]}
           - {label: "Get Involved", name: "getInvolved", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}
-            ]}
-          - {label: "How Does it Work?", name: "howDoesItWork", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"},
-              {label: "Image", name: "image", widget: "image"}
-            ]}
-          - {label: "Charter", name: "charter", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-            ]}
-          - {label: "Strategy and Context", name: "partnership", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Strategy", name: "strategy", widget: "markdown"},
-              {label: "Resources", name: "resources", widget: "markdown"},
-              {label: "Button Text", name: "buttonText", widget: "string"},
-              {label: "Button Link", name: "buttonUrl", widget: "string"}
-            ]}
-          - {label: "What Else is Happening?", name: "whatElse", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-            ]}
-      - file: "site/content/contact-us/_index.md"
-        label: "Contact"
-        name: "contact"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Template", name: "layout", widget: "hidden", default: "single"}
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Image", name: "image", widget: "image", required: false},
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Sub-Heading", name: "subHeading", widget: "string", required: false},
               {label: "Body", name: "body", widget: "markdown"}
             ]}
       - file: "site/content/get-involved/_index.md"
@@ -72,35 +44,131 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Image", name: "image", widget: "image"}
+              {label: "Image (1024x400px)", name: "image", widget: "image"}
             ]}
           - {label: "About", name: "about", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: "string" },
-            {label: "Body", name: "body", widget: "markdown" },
-          ]}
-          - {label: "Action Plans", name: "actionPlans", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: "string" },
-            {label: "Body", name: "body", widget: "markdown" },
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Sub-heading", name: "subHeading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown" }
           ]}
           - {label: "Strategy Call To Action", name: "strategyCta", widget: "object", fields: [
-            {label: "Title", name: "title", widget: "string"},
-            {label: "Url", name: "url", widget: "string"}
+              {label: "Title", name: "title", widget: "string"},
+              {label: "Url", name: "url", widget: "string"}
+          ]}
+      - file: "site/content/action-groups/_index.md"
+        label: "Action group landing"
+        name: "action-groups"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+            {label: "Image (1024x400px)", name: "image", widget: "image"}
+          ]}  
+          - {label: "What is an action group?", name: "whatIs", widget: "object", fields [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Join an action group", name: "joinAnActionGroup", widget: "object", fields [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "body", name: "body", widget: "markdown"}
+          ]}
+      - file: "site/content/action-groups/_index.md"
+        label: "Action group resources"
+        name: "action-group-resources"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Headings", name: "content", object: "widget", fields: [
+            {label: "Heading", name: "heading", object: "string"},
+            {label: "Sub-heading", name: "subHeading", object: "string"}
+          ]}
+          - {label: "Cause and consequence", name: "causeAndConsequence", widget: "object", fields [
+            {label: "body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "WHIG", name: "whig", widget: "object", fields [
+            {label: "body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Emergency accommodation standards", name: "emergAccomStandards", widget: "object", fields [
+            {label: "body", name: "body", widget: "markdown"}
+          ]}
+      - file: "site/content/charter/_index.md"
+        label: "Charter"
+        name: "charter"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object" [
+            {label: "Image (1024x400px)", name: "image", object: "image"}
+          ]}
+          - {label: "About", name: "about", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Hear more", name: "hearMore", widget: "object", fields: [
+            {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "site/content/guidelines/_index.md"
+        label: "Guidelines"
+        name: "guidelines"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "About", name: "guidelines", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Guideline list", name: "guidelineList", widget: "object", fields: [
+            {label: "Guideline one", name: "guidelineOne", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}
+            ]}
+            {label: "Guideline two", name: "guidelineTwo", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}
+            ]}
+            {label: "Guideline three", name: "guidelineThree", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}
+            ]}
+            {label: "Guideline four", name: "guidelineFour", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}
+            ]}
+            {label: "Guideline five", name: "guidelineFive", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}
+            ]}
           ]}
       - file: "site/content/homelessness-in-manchester/_index.md"
         label: "Homelessness in Manchester"
         name: "homelessness-in-manchester"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Image", name: "image", widget: "image"}
-            ]}
           - {label: "About", name: "about", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: "string" },
-            {label: "Body", name: "body", widget: "markdown" },
+            {label: "Title", name: "title", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "How to Help", name: "howToHelp", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: "string" },
-            {label: "Body", name: "body", widget: "markdown" },
+      - file: "site/content/how-to-help/_index.md"
+        label: "How to help"
+        name: "how-to-help"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields [
+            {label: "Image", name: "image", widget: "image"}
+          ]}
+          - {label: "About", name: "about," widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "site/content/resources/_index.md"
+        label: Our resources
+        name: our-resources
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Resources", name: "resources", widget: "object", fields: [
+            {label: "Heading", name: "heading", widget: "string"},
+            {label: "Body", name: "body", widget: "markdown"}
           ]}
   - name: "action-groups"
     label: "Action Groups"

@@ -13,13 +13,39 @@
           <header class="block__header">
             <h1 class="block__header-title">{{ .Params.about.heading }}</h1>
             {{ if (ne .Params.about.subHeading nil) }}
-            <p class="block__header-sub-title">{{ .Params.about.subHeading }}</p>
             {{ end }}
           </header>
         </div>
       </div>
       <div class="container">
         <div class="block__body block__body--drop-shadow">
+          <p class="h3">{{ .Params.about.subHeading }}</p>
+          <ul class="icon-links">
+            <li class="icon-links__link icon-links__link">
+              <a href="/action-groups/">
+                <div class="icon-links__icon-container">
+                  {{ partial "icon" (dict "context" . "iconName" "clapper-board" ) }}
+                </div>
+                Join an Action Group
+              </a>
+            </li>
+            <li class="icon-links__link icon-links__link">
+              <a href="https://mhp.us17.list-manage.com/subscribe?u=8fd6e73ffa2daafb4a46d5eb5&id=5ad4233828">
+                <div class="icon-links__icon-container">
+                  {{ partial "icon" (dict "context" . "iconName" "letter" ) }}
+                </div>
+                Join our mailing list
+              </a>
+            </li>
+            <li class="icon-links__link icon-links__link">
+              <a href="https://twitter.com/McrHomelessness?ref_src=twsrc%5Etfw">
+                <div class="icon-links__icon-container">
+                  {{ partial "icon" (dict "context" . "iconName" "mhp-logo" ) }}
+                </div>
+                Follow us on Twitter
+              </a>
+            </li>
+          </ul>
           {{ partial "bodyMarkdown.html" .Params.about.body }}
         </div>
       </div>

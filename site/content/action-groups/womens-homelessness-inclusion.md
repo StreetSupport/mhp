@@ -6,9 +6,6 @@ content:
   heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.
   body: >-
-    ![]()
-
-
     **What is the purpose of the group?**
 
 
@@ -50,12 +47,12 @@ content:
 
       **How does the group work?**
 
-      W﻿HIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, working groups and the WHIG mailing list. 
+      WHIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, working groups and the WHIG mailing list. 
 
     **Where and when does the group meet?**
 
 
-    W﻿HIG holds monthly face to face meetings at various locations across Manchester on the 4th Wednesday of the month. We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG and can host a meeting, please contact us womencochairs@gmail.com
+    WHIG holds monthly face to face meetings at various locations across Manchester on the 4th Wednesday of the month. We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG and can host a meeting, please contact us womencochairs@gmail.com
 
 
     **Women’s Homelessness Involvement Group’s Political Asks**
@@ -64,5 +61,6 @@ content:
     We at the Women’s Homelessness Involvement Group (WHIG) have developed some [key political asks](https://mhp.org.uk/assets/uploads/political-asks_sketches-whig.pdf). These are based on what women who are experiencing homelessness and stakeholders from frontline services have told us are the gaps in provision and barriers to accessing support. Through a coproduced approach with women, we have developed solutions to address those gaps and identified what is needed to improve homelessness services for women.
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: http://news.streetsupport.net/tag/women/
 ---

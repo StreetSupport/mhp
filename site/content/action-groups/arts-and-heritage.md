@@ -7,6 +7,7 @@ content:
     and/or homelessness work. Their sessions will include co-curating workshops
     at different venues across the city.
   contactEmail: info@mhp.org.uk
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   heading: Arts and Heritage
   newsUrl: http://news.streetsupport.net/tag/arts-heritage/
   subHeading: Increasing opportunities for people with experience of homelessness
