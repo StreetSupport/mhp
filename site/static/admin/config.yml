@@ -63,7 +63,7 @@ collections:
           - {label: "Hero", name: "hero", widget: "object", fields: [
             {label: "Image (1024x400px)", name: "image", widget: "image"}
           ]}  
-          - {label: "What is an action group?", name: "whatIs", widget: "object", fields [
+          - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "body", name: "body", widget: "markdown"}
           ]}
