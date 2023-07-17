@@ -2,6 +2,7 @@
 action-group: yes
 title: Co-production
 slug: co-production
+key: co-production
 content:
   body: 
   contactEmail: info@mhp.org.uk

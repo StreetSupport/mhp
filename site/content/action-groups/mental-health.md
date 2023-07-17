@@ -2,6 +2,7 @@
 action-group: yes
 title: Mental Health Action Group
 slug: mental-health
+key: mental-health
 content:
   heading: Mental Health
   subHeading: Improving Mental Health provision for homeless people

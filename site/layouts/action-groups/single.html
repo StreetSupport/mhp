@@ -32,7 +32,18 @@
                 href="{{ .Params.content.signupLink }}" target="_blank">Sign up to this action group</a>
           </div>
         </div>
+
+        <div class="container">
+          <div class="block__body">
+            <div id="posts-container" class="ctas">
+            </div>
+            <div class="btn-wrapper">
+              <a id="all-posts-btn" class="btn btn--mhp-yellow">View All</a>
+            </div>
+          </div>
+        </div>
     </section>
+    <div id="posts-init" data-key="{{ .Params.key }}"></div>
   </main>
   {{ $footer := .Site.GetPage "_footer.md" }}
   {{ partial "footer.html" (dict "footer" $footer) }}
@@ -41,6 +52,9 @@
   {{ with $script.js }}
   <script src="{{ relURL . }}"></script>
   {{ end }}
+  <script type="text/javascript">
+    document.getElementById("posts-init").click();
+  </script>
 </body>
 
 </html>

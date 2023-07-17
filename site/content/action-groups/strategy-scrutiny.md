@@ -2,6 +2,7 @@
 action-group: yes
 title: Strategy Scrutiny Action Group
 slug: strategy-scrutiny
+key: strategy-scrutiny
 content:
   heading: Strategy Scrutiny
   subHeading:
