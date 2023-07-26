@@ -6,9 +6,8 @@ export default {
     on("click", "#posts-init", (evt) => {
       const category = document.getElementById("posts-init").dataset.key;
       
-      // TODO: use variable 'category' instead of 'bradford' value below
       wp
-      .getPostsByLocation('bradford', 2, 0, true)
+      .getPostsByCategory(category, 2, 0, true)
       .then((posts) => {
         const container = document.getElementById("posts-container");
 

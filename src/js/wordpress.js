@@ -3,10 +3,8 @@
 import moment from 'moment'
 
 const WPAPI = require('wpapi')
-const apiRootJSON = require('../../site/data/wp-endpoints.json')
 const api = new WPAPI({
-  endpoint: 'https://news.streetsupport.net/wp-json',
-  routes: apiRootJSON.routes
+  endpoint: 'https://news.mhp.org.uk/wp-json'
 })
 const striptags = require('striptags')
 
@@ -105,7 +103,7 @@ export function getPostsByCategory (category, limit, offset, resolveEmbedded) {
         }
         // .slug() queries will always return as an array
         const currentCategory = categories[0]
-        let query = this.api.posts().categories(currentCategory.id)
+        let query = api.posts().categories(currentCategory.id)
         if (typeof (resolveEmbedded) !== 'undefined' && resolveEmbedded === true) {
           query = query.embed()
         }
