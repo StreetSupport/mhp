@@ -11,84 +11,7 @@ const striptags = require('striptags')
 // TODO: Enable Caching
 // TODO: Investigate requesting other image sizes
 
-export function getPostsByLocation (location, limit, offset, resolveEmbedded) {
-  if (api === null) {
-    console.log('No API')
-    return []
-  }
-  return new Promise((resolve, reject) => {
-    api.locations().slug(location)
-      .get((error, locations) => {
-        if (error) {
-          console.error('WordPress Taxonomy Query Error')
-          console.error(error)
-          return []
-        }
-
-        const currentLocation = locations[0]
-        let query = api.posts().param('locations', currentLocation.id)
-        if (typeof (resolveEmbedded) !== 'undefined' && resolveEmbedded === true) {
-          query = query.embed()
-        }
-        if (typeof (limit) !== 'undefined') {
-          query = query.perPage(limit)
-        }
-        if (typeof (offset) !== 'undefined') {
-          query = query.offset(offset)
-        }
-        query.get((error, posts) => {
-          if (error) {
-            reject(error)
-          }
-          resolve({
-            posts: processPosts(posts),
-            taxonomy: currentLocation
-          })
-        })
-      })
-  })
-}
-
-export function getPostsByTag (tag, limit, offset, resolveEmbedded) {
-  if (api === null) {
-    console.log('No API')
-    return []
-  }
-  return new Promise((resolve, reject) => {
-    api.tags().slug(tag)
-      .get((error, tags) => {
-        if (error) {
-          console.error('WordPress Tag Query Error')
-          console.error(error)
-          return []
-        }
-
-        // .slug() queries will always return as an array
-        const currentTag = tags[0]
-        let query = api.posts().tags(currentTag.id)
-        if (typeof (resolveEmbedded) !== 'undefined' && resolveEmbedded === true) {
-          query = query.embed()
-        }
-        if (typeof (limit) !== 'undefined') {
-          query = query.perPage(limit)
-        }
-        if (typeof (offset) !== 'undefined') {
-          query = query.offset(offset)
-        }
-        query.get((error, posts) => {
-          if (error) {
-            reject(error)
-          }
-          resolve({
-            posts: processPosts(posts),
-            taxonomy: currentTag
-          })
-        })
-      })
-  })
-}
-
-export function getPostsByCategory (category, limit, offset, resolveEmbedded) {
+export function getPostsByCategory (category, limit, resolveEmbedded) {
   if (api === null) {
     return []
   }
@@ -103,16 +26,14 @@ export function getPostsByCategory (category, limit, offset, resolveEmbedded) {
         }
         // .slug() queries will always return as an array
         const currentCategory = categories[0]
-        let query = api.posts().categories(currentCategory.id)
+        let query = api.posts().category(currentCategory.id);
         if (typeof (resolveEmbedded) !== 'undefined' && resolveEmbedded === true) {
           query = query.embed()
         }
         if (typeof (limit) !== 'undefined') {
           query = query.perPage(limit)
         }
-        if (typeof (offset) !== 'undefined') {
-          query = query.offset(offset)
-        }
+
         query.get((error, posts) => {
           if (error) {
             reject(error)
