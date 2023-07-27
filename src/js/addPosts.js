@@ -1,26 +1,26 @@
 import {on} from "delegated-events";
-//const wp = require('./wordpress')
+const wp = require('./wordpress')
 
 export default {
   init: () => {
-    // on("click", "#posts-init", (evt) => {
-    //   const category = document.getElementById("posts-init").dataset.key;
+    on("click", "#posts-init", (evt) => {
+      const category = document.getElementById("posts-init").dataset.key;
       
-    //   wp
-    //   .getPostsByCategory(category, 2, 0, true)
-    //   .then((posts) => {
-    //     const container = document.getElementById("posts-container");
+      wp
+      .getPostsByCategory(category, 2, 0, true)
+      .then((posts) => {
+        const container = document.getElementById("posts-container");
 
-    //     posts.posts.forEach((element) => {
-    //       container.innerHTML += `<div class=\"cta\"><h1 class=\"h2\">${element.title.rendered}</h1><p>${element.short_excerpt}</p><a class="btn btn--mhp-yellow cta__link"href="${element.link}">Read more</a></div>`;
-    //     });
+        posts.posts.forEach((element) => {
+          container.innerHTML += `<div class=\"cta\"><h1 class=\"h2\">${element.title.rendered}</h1><p>${element.short_excerpt}</p><a class="btn btn--mhp-yellow cta__link"href="${element.link}">Read more</a></div>`;
+        });
 
-    //     if (posts.posts && posts.posts.length) {
-    //       const btn = document.getElementById("all-posts-btn");
-    //       btn.style.display = 'inline-block';
-    //       btn.href = posts.taxonomy.link;
-    //     }
-    //   });
-    // });
+        if (posts.posts && posts.posts.length) {
+          const btn = document.getElementById("all-posts-btn");
+          btn.style.display = 'inline-block';
+          btn.href = posts.taxonomy.link;
+        }
+      });
+    });
   }
 };
