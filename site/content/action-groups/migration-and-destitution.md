@@ -2,6 +2,7 @@
 action-group: yes
 title: Migration and Destitution Fund Action Group
 slug: migration-and-destitution
+key: migration-and-destitution
 content:
   heading: Migration and Destitution Fund
   subHeading: Solutions for destitute people who cannot access the state safety net.

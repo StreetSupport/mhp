@@ -2,6 +2,7 @@
 action-group: yes
 title: Real Change MCR Action Group
 slug: real-change-mcr
+key: real-change-mcr
 content:
   heading: Real Change MCR
   subHeading: "Real Change MCR is a fund to help people experiencing homelessness

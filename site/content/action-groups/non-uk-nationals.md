@@ -2,6 +2,7 @@
 action-group: yes
 title: Non-UK Nationals
 slug: non-uk-nationals
+key: non-uk-nationals
 content:
   heading: Non-UK Nationals
   subHeading: Solutions for destitute people who cannot access the state safety net.

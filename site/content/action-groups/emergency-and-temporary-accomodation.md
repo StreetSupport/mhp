@@ -2,6 +2,7 @@
 action-group: yes
 title: "Emergency and Temporary Accommodation"
 slug: emergency-and-temporary-accommodation
+key: emergency-and-temporary-accommodation
 content:
   body: >-
     The Emergency and Temporary Accommodation Action Group aims to raise the

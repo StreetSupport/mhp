@@ -2,6 +2,7 @@
 action-group: yes
 title: Women’s Homelessness Involvement Group (WHIG)
 slug: womens-homelessness-inclusion
+key: womens-homelessness-inclusion
 content:
   heading: Women’s Homelessness Involvement Group (WHIG)
   subHeading: Issues specific to women facing homelessness.

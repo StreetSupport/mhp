@@ -2,6 +2,7 @@
 action-group: yes
 title: Preventing Homelessness Action Group
 slug: preventing-homelessness
+key: preventing-homelessness
 content:
   heading: Preventing Homelessness
   subHeading: Improving the experience for people presenting as homeless at
