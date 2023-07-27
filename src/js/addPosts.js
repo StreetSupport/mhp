@@ -7,7 +7,7 @@ export default {
       const category = document.getElementById("posts-init").dataset.key;
       
       wp
-      .getPostsByCategory(category, 2, 0, true)
+      .getPostsByCategory(category, 2, true)
       .then((posts) => {
         const container = document.getElementById("posts-container");
 
