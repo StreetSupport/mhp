@@ -94,8 +94,10 @@ export function getPostsByCategory (category, limit, offset, resolveEmbedded) {
   }
 
   return new Promise((resolve, reject) => {
+    console.log('outside');
     api.categories().slug(category)
       .get((error, categories) => {
+        console.log('inside');
         if (error) {
           console.error('WordPress Category Query Error')
           console.error(error)

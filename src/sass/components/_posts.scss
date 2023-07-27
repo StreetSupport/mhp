@@ -22,3 +22,16 @@
     display: none;
     width: 100px;
   }
+
+  #mobile {
+    display: block; }
+  #desktop {
+    display: none; }
+  
+  @include mq($from: tablet) {
+    #mobile {
+      display: none; }
+    #desktop {
+      display: block; }
+  }
+  
