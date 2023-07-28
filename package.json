@@ -77,6 +77,6 @@
     "json-loader": "^0.5.7",
     "moment": "^2.29.4",
     "striptags": "^2.2.1",
-    "wpapi": "^0.9.1"
+    "wpapi": "^0.12.1"
   }
 }
