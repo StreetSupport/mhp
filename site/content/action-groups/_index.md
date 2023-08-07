@@ -3,13 +3,21 @@ title: Action Groups
 hero:
   image: /assets/images/womens-ag.jpg
   heading: Action Groups
-
 whatIs:
-  heading: What is an action group?
+  heading: "Action Groups: Learn more about what we do"
   body: >-
-    The action groups will each tackle a key challenge that people experiencing homelessness regularly face, such as access to mental health support, emergency accommodation, and employment. Each group will include people who have experienced homelessness, as well as those who have relevant skills or professional expertise.
+    At the heart of the Partnership are our Action Groups, which tackle specific
+    challenges that people who are homeless may face. Each group includes people
+    who have experienced the topic in question, as well as those who have
+    relevant skills or professional expertise.  
+
+
+    We are open to anyone who shares our goal of ending homelessness in Manchester – please sign up to an Action Group using our form [here](https://mhp.org.uk/action-groups/), or get in touch via email at [info@mhp.org.uk](mailto:info@mhp.org.uk) for more information.
+
+
+    F﻿ind out more about specific Action Groups below!
 joinAnActionGroup:
   heading: Join an Action Group
-  body: >-
-    If there is an issue not listed here which you think worthy of an action group, please email your suggestions to [info@mhp.org.uk](info@mhp.org.uk).
+  body: If there is an issue not listed here which you think worthy of an action
+    group, please email your suggestions to [info@mhp.org.uk](info@mhp.org.uk).
 ---
