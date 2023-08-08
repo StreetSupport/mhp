@@ -1,18 +1,30 @@
 ---
 action-group: yes
-title: Preventing Homelessness Action Group
+title: Prevention Action Group
 slug: preventing-homelessness
 key: preventing-homelessness
 content:
-  heading: Preventing Homelessness
-  subHeading: Improving the experience for people presenting as homeless at
-    Manchester town hall
-  body: This group is looking at improving the experience of people presenting as
-    homeless at the town hall. It includes people with lived experience of
-    attending the town hall, staff, management and support workers for the
-    sector.
+  heading: Prevention Action Group
+  subHeading: Effecting sustainable systems change in homelessness prevention
+  body: >-
+    The Prevention Action Group aims to affect sustainable systems change in
+    homelessness prevention, through **finding new solutions in preventing all
+    types of homelessness** and ensuring that the voice of the community is
+    heard.  
+
+
+    After relaunching in 2022, the group is looking at **mapping prevention services across the city, and lobbying for systems change.** 
+
+
+    > Homelessness prevention should be about proactively building wellbeing and participation, as well as taking steps to respond effectively when people need help.
+
+
+    The group is chaired by Manchester City Council, the Booth Centre and Mustard Tree, and a wide range of services and individuals attend, including from Barnabus, Lifeshare, and Manchester Women’s Aid. 
+
+
+    **Membership is open,** and is particularly sought from people with personal experience of homelessness & homeless services in Manchester, and from people working in the sector.
   id: 57166257e4b09686f6b2c88f
-  contactEmail: info@mhp.org.uk
+  contactEmail: jack.barton@mustardtree.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
-  newsUrl: http://news.streetsupport.net/tag/presenting-homeless/
+  newsUrl: https://news.mhp.org.uk/category/prevention/
 ---
