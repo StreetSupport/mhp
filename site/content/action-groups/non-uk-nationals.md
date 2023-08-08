@@ -17,7 +17,11 @@ content:
     > "Non-UK nationals are more vulnerable to homelessness than people with UK citizenship, and those with restricted or undetermined eligibility for public funds even more so." - from Crisis report 'A Home For All'
 
 
+
+
     After launching at the end of 2022, the group voted to decide the first topic of focus for the group –**how non–UK nationals with restricted eligibility to public funds can access accommodation.** The group has begun to design a toolkit which can be of use to frontline services and people experiencing these issues themselves. It helps readers navigate the system, demystify common misconceptions and raises awareness of what support people can access no matter what your immigration status.
+
+
 
 
     O﻿rganisations involved in the group include the Booth Centre, Greater Manchester Immigration Aid Unit and Boaz Trust, as well as other organisations that work with Non-UK nationals, and people with lived experience.  
