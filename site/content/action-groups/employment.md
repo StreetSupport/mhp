@@ -1,8 +1,8 @@
 ---
 action-group: yes
 title: Employment Action Group
-slug: employement
-key: employement
+slug: employment
+key: employment
 content:
   body: >-
     **The Employment Action Group (EAG) aims to create new pathways into work**
