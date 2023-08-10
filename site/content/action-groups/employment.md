@@ -21,7 +21,7 @@ content:
     **We encourage businesses to get involved by supporting people into work.** Find out how you can get involved below!
 
 
-    ![Image](assets/uploads/eag.jpg "Image")
+    ![image](/assets/uploads/eag.jpg#thumbnail)
 
 
     Partnerships with employers are key to the success of the group and we invite employers to step up and be part of the solution and support people into employment. There’s lots of ways to get involved, including: 
@@ -44,7 +44,7 @@ content:
      **T﻿o get involved**, please contact co-chair Chris on chris@radicalrecruit.org.uk
 
 
-    ![Image](assets/uploads/eag-fact.jpg "Image")
+    ![image](/assets/uploads/eag-fact.jpg#thumbnail)
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   heading: Employment
