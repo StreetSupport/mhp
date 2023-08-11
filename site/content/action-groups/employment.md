@@ -21,7 +21,7 @@ content:
     **We encourage businesses to get involved by supporting people into work.** Find out how you can get involved below!
 
 
-    ![how-it-works-image](/assets/uploads/eag.jpg#thumbnail)
+    ![How did it work? Joe came to the Booth Centre looking for help to find employment. He came to Job Club and met Chris. BITC introduced him to the site manager at a City Centre construction scheme. He was offered a job and the Booth Centre team helped him find private rented accommodation. Joe found it difficult to juggle these new responsibilities at first. Ongoing support from BITC and their relationship with the employer, alongside the Booth Centre's support, helped Joe to sustain his job and home.](/assets/uploads/eag.jpg#thumbnail)
 
 
     Partnerships with employers are key to the success of the group and we invite employers to step up and be part of the solution and support people into employment. There’s lots of ways to get involved, including: 
