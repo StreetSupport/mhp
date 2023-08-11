@@ -17,7 +17,7 @@ content:
     Originally established to feed into and scrutinise the Council’s strategy on homelessness, the group decided to take a different approach and create a brand-new strategy which would be co-produced from start to finish - becoming **a strategy for the city as a whole, and all the services connected to ending and preventing homelessness.** 
 
 
-    ![Diagram taken from the Manchester Homelessness Strategy, demonstrating the diverse approach towards providing support that is a principle of this strategy. It involves building self-expression, increased wellbeing, greater social inclusion and positive relationships in order to create a much deeper and more effective support structure.](/assets/uploads/download.jpg)
+    ![]()
 
 
     Like our other Action Groups, the Strategy Scrutiny Action Group brings together cross-sector organisations, primarily Manchester City Council and local homelessness charities like Shelter Manchester and Barnabus, with people with lived experience of homelessness, to inform their work. 
