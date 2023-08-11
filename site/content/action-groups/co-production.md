@@ -18,7 +18,7 @@ content:
     S﻿ome examples of projects that the group has worked on include **putting on co – production training for co – chairs of other action groups.** They are looking to do another set of training, even more enriching, for people within the MHP and outside agencies. It will focus on informing people with lived experience on how to get involved in homeless strategy projects and how organisations can involve these people as well.  
 
 
-    ![Image](/assets/uploads/img_20230613_154554_326.jpg#thumbnail)
+    ![Image of notes made during co-production training. The notes are about what barriers people might face when participating in meetings, such as the style of participation and the room layout.](/assets/uploads/img_20230613_154554_326.jpg#thumbnail "Notes made during co-production training.")
 
 
     T﻿he Booth Centre were invited to support [Homeless Link](https://www.homeless.org.uk/co-production-toolkit) in the development of their **Co-production Toolkit,** to support other homeless services in integrating a culture of genuine co-production in their organisations. Learn more by clicking here!
