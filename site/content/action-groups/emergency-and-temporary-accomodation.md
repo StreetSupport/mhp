@@ -1,17 +1,19 @@
 ---
 action-group: yes
-title: "Emergency and Temporary Accommodation"
+title: Accommodation Action Group
 slug: emergency-and-temporary-accommodation
 key: emergency-and-temporary-accommodation
 content:
   body: >-
-    The Emergency and Temporary Accommodation Action Group aims to raise the
-    standards of emergency accommodation in Manchester.  The group has set out a
-    vision for emergency accommodation for 2022, as well as setting minimum
-    standards for now.
+    T﻿he Accommodation Action Group, relaunched in 2023, unites the previous
+    Emergency Accommodation Action Group and the Unsupported Temporary
+    Accommodation Action Group. The group is initially focusing on A Bed Every
+    Night (ABEN) and reviewing the emergency accommodation standards.
 
 
-    Achievements of the group include drawing up the vision and minimum standards, getting these adopted by the MHP and Manchester City Council and they now form the basis for the commissioning of these services.
+
+
+    The **Emergency Accommodation Action Group** aimed to raise the standards of emergency accommodation in Manchester. Achievements of the group included drawing up the vision and minimum standards, and getting these adopted by the MHP and Manchester City Council - they now form the basis for the commissioning of these services.
 
 
     The minimum standards and vision for 2022 are to ensure that Manchester has the highest possible standards for emergency accommodation to help people who are rough sleeping to make the choice to move inside. These standards have been drawn up with people who have experience of staying in emergency accommodation and people who provide and commission accommodation and support services. 
@@ -21,9 +23,14 @@ content:
 
 
     Download > > [Minimum standards and vision for 2022](https://www.boothcentre.org.uk/partnerships.html)
+
+
+
+
+    T﻿he **Unsupported Temporary Accommodation (UTA) Action Group**, co-chaired by Justlife, focused on a population that is mainly ‘hidden’ from the public eye, with little or no support - people living in Unsupported Temporary Accommodation (UTA’s), such as bed-and-breakfast accommodation, private hostels and short-stay houses in multiple occupation.
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
-  heading: Emergency and Temporary Accommodation
+  heading: Accommodation Action Group
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
-  subHeading: 
+  subHeading: Emergency and Unsupported Temporary Accommodation
 ---
