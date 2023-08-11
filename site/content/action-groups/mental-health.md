@@ -23,7 +23,7 @@ content:
     > "Systems and services are simplified and connected so it’s easier to navigate them." - from the Mental Health Action Group's Causes and Consequences report
 
 
-    ![](/assets/uploads/shelter-mhag-visual-minutes-resize.jpg)
+    ![](assets/uploads/image-002-1-.jpg)
 
 
     A﻿fter a pause in activity during COVID-19, the MHAG is back up and running, as of August 2023!
