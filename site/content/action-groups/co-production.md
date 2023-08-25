@@ -31,4 +31,5 @@ content:
   newsUrl: https://news.mhp.org.uk/category/co-production/
   subHeading: Ensuring that the voice of people with lived experience is
     represented across the Partnership
+  image: 
 ---

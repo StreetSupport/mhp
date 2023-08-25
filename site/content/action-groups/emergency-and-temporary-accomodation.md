@@ -33,4 +33,5 @@ content:
   heading: Accommodation Action Group
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
   subHeading: Emergency and Unsupported Temporary Accommodation
+  image: 
 ---

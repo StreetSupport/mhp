@@ -1,5 +1,7 @@
 ---
 title: Action Group Resources
+hero:
+  image: 
 content:
   heading: Action Group Resources
   subHeading: Read resources created by our Action Groups.

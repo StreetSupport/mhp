@@ -14,4 +14,5 @@ content:
   subHeading: Increasing opportunities for people with experience of homelessness
     to engage in the arts, through the city's arts and cultural institutions,
     artists and industries
+  image: 
 ---

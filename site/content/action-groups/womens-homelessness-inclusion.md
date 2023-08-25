@@ -64,4 +64,5 @@ content:
   contactEmail: womencochairs@gmail.com
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: http://news.streetsupport.net/tag/women/
+  image: 
 ---

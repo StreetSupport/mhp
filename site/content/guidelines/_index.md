@@ -1,5 +1,7 @@
 ---
 title: Guidelines
+hero:
+  image: 
 guidelines:
   body: >-
     Best practice for working with and supporting people experiencing homelessness, created by partners and external organisations.

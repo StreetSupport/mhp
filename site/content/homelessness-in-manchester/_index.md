@@ -1,5 +1,7 @@
 ---
 title: Homelessness in Manchester
+hero:
+  image: 
 about:
   body: >-
     Manchester has some of the highest levels of homelessness in the UK –

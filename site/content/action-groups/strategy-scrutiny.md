@@ -28,4 +28,5 @@ content:
   contactEmail: john_ryan@shelter.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: https://news.mhp.org.uk/category/strategy-scrutiny/
+  image: 
 ---
