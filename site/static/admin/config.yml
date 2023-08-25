@@ -197,7 +197,7 @@ collections:
           {label: "Sub-Heading", name: "subHeading", widget: "string"},
           {label: "Body", name: "body", widget: "markdown"},
           {label: "Contact Email Address", name: "contactEmail", widget: "string"},
-          {label: "News Url", name: "newsUrl", widget: "string"}
+          {label: "News Url", name: "newsUrl", widget: "string"},
           {label: "Hero image", name: "image", widget: "image", required: false}
         ]}
 
