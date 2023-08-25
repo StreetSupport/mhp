@@ -50,4 +50,5 @@ content:
   heading: Employment
   newsUrl: https://news.mhp.org.uk/category/employment/
   subHeading: Creating new pathways into work for people who have experienced homelessness
+  image: 
 ---

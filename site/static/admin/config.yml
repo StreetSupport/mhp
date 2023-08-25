@@ -44,7 +44,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-              {label: "Image (1024x400px)", name: "image", widget: "image"}
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
             ]}
           - {label: "About", name: "about", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
@@ -61,7 +61,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-            {label: "Image (1024x400px)", name: "image", widget: "image"}
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
           ]}  
           - {label: "What is an action group?", name: "whatIs", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
@@ -76,6 +76,9 @@ collections:
         name: "action-group-resources"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
+          ]}  
           - {label: "Headings", name: "content", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "Sub-heading", name: "subHeading", widget: "string"}
@@ -95,7 +98,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-            {label: "Image (1024x400px)", name: "image", widget: "image"}
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
           ]}
           - {label: "About", name: "about", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
@@ -109,9 +112,12 @@ collections:
         name: "guidelines"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
+          ]}  
           - {label: "About", name: "guidelines", widget: "object", fields: [
-            {label: "Heading", name: "heading", widget: "string"},
-            {label: "Body", name: "body", widget: "markdown"}
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Guideline list", name: "guidelineList", widget: "object", fields: [
             {label: "Guideline one", name: "guidelineOne", widget: "object", fields: [
@@ -145,6 +151,9 @@ collections:
         name: "homelessness-in-manchester"
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
+          ]}  
           - {label: "About", name: "about", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "Body", name: "body", widget: "markdown"}
@@ -155,7 +164,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Hero", name: "hero", widget: "object", fields: [
-            {label: "Image", name: "image", widget: "image"}
+              {label: "Image", name: "image", widget: "image", required: false}
           ]}
           - {label: "About", name: "about", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
@@ -166,6 +175,9 @@ collections:
         name: our-resources
         fields:
           - {label: "Title", name: "title", widget: "string"}
+          - {label: "Hero", name: "hero", widget: "object", fields: [
+              {label: "Image (1024x400px)", name: "image", widget: "image", required: false}
+          ]}  
           - {label: "Resources", name: "resources", widget: "object", fields: [
             {label: "Heading", name: "heading", widget: "string"},
             {label: "Body", name: "body", widget: "markdown"}
@@ -186,5 +198,6 @@ collections:
           {label: "Body", name: "body", widget: "markdown"},
           {label: "Contact Email Address", name: "contactEmail", widget: "string"},
           {label: "News Url", name: "newsUrl", widget: "string"}
+          {label: "Hero image", name: "image", widget: "image", required: false}
         ]}
 
