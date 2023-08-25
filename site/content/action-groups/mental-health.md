@@ -23,13 +23,10 @@ content:
     > "Systems and services are simplified and connected so it’s easier to navigate them." - from the Mental Health Action Group's Causes and Consequences report
 
 
-    ![](assets/uploads/image-002-1-.jpg)
-
-
     A﻿fter a pause in activity during COVID-19, the MHAG is back up and running, as of August 2023!
   contactEmail: max.homberger@cgl.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   id: 571661e0e4b09686f6b2c883
   newsUrl: https://news.mhp.org.uk/category/mental-health
-  image: 
+  image: null
 ---
