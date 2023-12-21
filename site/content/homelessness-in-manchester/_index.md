@@ -56,7 +56,7 @@ about:
     **\*NEW\*** Manchester [Homelessness and Rough Sleeping Strategy](https://www.manchester.gov.uk/info/200117/homeless_people/7160/homelessness_strategy#:~:text=Homes%20and%20property%20Homelessness%20Strategy&text=It%20identifies%20four%20priorities%3A%20Increasing,accommodation%20and%20supporting%20better%20lives.) (2024-2027) sets out how the council and its partners will work together towards ending homelessness.
 
 
-    **"﻿NEW*** [Health and Homelessness Joint Strategic Needs Assessment (JSNA) ](https://mcusercontent.com/8fd6e73ffa2daafb4a46d5eb5/files/07b44f1f-3ce0-9318-36b1-2132414d2d47/Health_and_Homelessness_JSNA_Final_Draft_Dec_2023_.pdf)provides a summary of data and evidence regarding the health of people who are rough sleeping or experiencing homelessness in Manchester. 
+    **\*﻿NEW\*** [Health and Homelessness Joint Strategic Needs Assessment (JSNA) ](https://mcusercontent.com/8fd6e73ffa2daafb4a46d5eb5/files/07b44f1f-3ce0-9318-36b1-2132414d2d47/Health_and_Homelessness_JSNA_Final_Draft_Dec_2023_.pdf)provides a summary of data and evidence regarding the health of people who are rough sleeping or experiencing homelessness in Manchester. 
 
 
     ### Learning from the Manchester Homelessness Partnership
