@@ -9,7 +9,7 @@ whatIs:
     co-produce solutions together to end homelessness.
 
 
-    **A bit about our history** – The MHP formed in 2016, in response to growing concerns about high levels of visible rough sleepers in Manchester city centre, and indicators showing that all forms of homelessness were on the rise across Manchester at a rate which was higher than the national average.   There was a recognition that more needed to be done to address homelessness in Manchester – but we also needed to change the way in which it's done. 
+    **A bit about our history** – The MHP formed in 2016, in response to growing concerns about high levels of visible rough sleepers in Manchester city centre, and indicators showing that all forms of homelessness were on the rise across Manchester at a rate which was higher than the national average.  There was a recognition that more needed to be done to address homelessness in Manchester – but we also needed to change the way in which it's done. 
 
 
     After a series of events and workshops, the Manchester Homelessness Partnership was formed, bringing together cross-sector organisations and people who have experienced homelessness, to tackle homelessness in Manchester.
@@ -39,7 +39,7 @@ howDoesItWork:
   image: assets/images/how-it-works.png
 whosInvolved:
   body: >-
-    **Charity & voluntary:** Booth Centre, Barnabus, Coffee4Craig, Lifeshare,
+    **Charity and voluntary:** Booth Centre, Barnabus, Coffee4Craig, Lifeshare,
     Mustard Tree, Greater Together Manchester, Justlife, Riverside, MASH,
     Manchester Women's Aid, Shelter, Street Support, Collaborative Women, Reach
     Out to the Community, Business In The Community, GMIAU, Boaz Trust, Real
