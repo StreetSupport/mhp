@@ -1,7 +1,7 @@
 ---
 title: Homelessness in Manchester
 hero:
-  image: 
+  ? image
 about:
   body: >-
     Manchester has some of the highest levels of homelessness in the UK –
@@ -50,13 +50,16 @@ about:
       People often experience feelings of isolation, increasing their chances of taking drugs or experiencing mental health problems. Sometimes, issues that people believe cause homelessness are actually a result of homelessness, such as substance abuse and poor mental health. 
 
 
-    ### Manchester’s Homelessness Strategy
+    ### Manchester’s Homelessness and Rough Sleeping Strategy and the Joint Strategic Needs Assessment
 
 
-    [Manchester Homelessness Strategy (2018 – 2023)](https://www.manchester.gov.uk/downloads/download/5665/homelessness_strategy), a co-produced five-year plan for making homelessness in Manchester rare, brief and one-off.
+    **\*NEW\*** Manchester [Homelessness and Rough Sleeping Strategy](https://www.manchester.gov.uk/info/200117/homeless_people/7160/homelessness_strategy#:~:text=Homes%20and%20property%20Homelessness%20Strategy&text=It%20identifies%20four%20priorities%3A%20Increasing,accommodation%20and%20supporting%20better%20lives.) (2024-2027) sets out how the council and its partners will work together towards ending homelessness.
 
 
-    ### Learning from the MHP
+    **"﻿NEW*** [Health and Homelessness Joint Strategic Needs Assessment (JSNA) ](https://mcusercontent.com/8fd6e73ffa2daafb4a46d5eb5/files/07b44f1f-3ce0-9318-36b1-2132414d2d47/Health_and_Homelessness_JSNA_Final_Draft_Dec_2023_.pdf)provides a summary of data and evidence regarding the health of people who are rough sleeping or experiencing homelessness in Manchester. 
+
+
+    ### Learning from the Manchester Homelessness Partnership
 
 
     Homeless Link’s [Manchester Homelessness Partnership Toolkit (2018)](https://homeless.org.uk/knowledge-hub/the-manchester-homelessness-partnership/)
