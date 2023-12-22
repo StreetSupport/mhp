@@ -52,7 +52,7 @@ whosInvolved:
     **Business:** Adept Corporate Services, Allied London, Arndale, Barclays, Bruntwood, CityCo, HSBC, Laing O’Rourke, Lloyds Banking Group, Radical Recruit...
 
 
-    And many more local organisations and dedicated individuals!
+    And many more local organisations and dedicated individuals.
   heading: Who's involved?
   subHeading: "The Manchester Homelessness Partnership currently works with the
     following organisations:"
