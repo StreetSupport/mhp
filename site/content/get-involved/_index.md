@@ -28,9 +28,10 @@ about:
     You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
 
 
-    For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk) (please note that we will respond to your email as soon as we can, but it may occasionally take a few weeks before we can get back to you).
+    For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk) and we will aim to respond to your email within 48 hours.
   heading: How to get involved
-  subHeading: There are many ways in which you can contribute to the aims of the Partnership
+  subHeading: There are many ways in which you can contribute to the aims of the
+    Partnership
 strategyCta:
   title: Sign up for an action group
   url: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
