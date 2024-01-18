@@ -12,7 +12,7 @@ whatIs:
     relevant skills or professional expertise.  
 
 
-    We are open to anyone who shares our goal of ending homelessness in Manchester – please sign up to an Action Group using our form [here](https://mhp.org.uk/action-groups/), or get in touch via email at [info@mhp.org.uk](mailto:info@mhp.org.uk) for more information.
+    We are open to anyone who shares our goal of ending homelessness in Manchester – please sign up to an Action Group using our form [here](https://forms.office.com/e/VrnX3MRuMM), or get in touch via email at [info@mhp.org.uk](mailto:info@mhp.org.uk) for more information.
 
 
     F﻿ind out more about specific Action Groups below.
