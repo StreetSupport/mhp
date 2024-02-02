@@ -11,7 +11,7 @@ content:
     city-wide, co-produced homelessness strategy.**  
 
 
-    You can read Manchester's Homelessness Strategy (2018 - 2023) [here](https://www.manchester.gov.uk/downloads/download/5665/homelessness_strategy). The group has recently worked with the Council on a review of homelessness in Manchester, and is beginning work on the next strategy (2024 – 2027)  
+    You can read the new Manchester's Homelessness and Rough Sleeping Strategy [here](https://www.manchester.gov.uk/info/200117/homeless_people/7160/homelessness_strategy). 
 
 
     Originally established to feed into and scrutinise the Council’s strategy on homelessness, the group decided to take a different approach and create a brand-new strategy which would be co-produced from start to finish - becoming **a strategy for the city as a whole, and all the services connected to ending and preventing homelessness.** 
@@ -28,5 +28,5 @@ content:
   contactEmail: john_ryan@shelter.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: https://news.mhp.org.uk/category/strategy-scrutiny/
-  image: 
+  image: null
 ---
