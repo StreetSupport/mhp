@@ -28,10 +28,10 @@ howDoesItWork:
     fantastic people in our network.
 
 
-    We have a Board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. 
+    We have a board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. 
 
 
-    Part of the ‘glue’ that holds our network together is our MHP Network and Communications Worker, a post hosted by [Macc](https://manchestercommunitycentral.org/about-us) and funded by MCC, the NHS and the Covid Recovery Fund via Young Manchester. The MHP is supported by the [Street Support Network](https://streetsupport.net), including through this website.
+    Part of the ‘glue’ that holds our network together is our MHP Network and Communications Worker, a post hosted by [Macc](https://manchestercommunitycentral.org/about-us) and funded by MCC, the NHS and the Covid Recovery Fund via Young Manchester. 
 
 
     We are also linked into the [Greater Manchester Homelessness Action Network](https://www.gmhan.net/).
