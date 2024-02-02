@@ -24,10 +24,7 @@ content:
     Previously Big Change MCR, Real Change MCR started in 2016 as part of the Manchester Homelessness Partnership – **we recognised the need to create an effective way to help people sleeping rough to build sustainable lives away from the streets.** While giving money directly to people experiencing homelessness may help in the short-term, it doesn’t help people long-term - and can even make their situation worse.  
 
 
-    The fund is used by Manchester homelessness organisations and charities who provide long-term support on the journey to independent living:
-
-
-    ![Booth Centre, Boaz Trust, Barnabus, Caritas Cornerstone and Morning Star, Coffee4Craig, GM Housing First, Humankind, Justlife, Manchester City of Sanctuary, Reach Out To The Community, Riverside, S.P.I.N](assets/uploads/f2qep0hxaaaqsjr.jpg)
+    The fund is used by Manchester homelessness organisations and charities who provide long-term support on the journey to independent living.
 
 
     Real Change MCR has a panel of people who volunteer their time to run, manage and allocate funds. The panel includes Manchester’s homeless organisations, charities, people who have been homeless, public sector staff, members of the business community and other Manchester organisations. 
@@ -41,5 +38,5 @@ content:
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: https://news.mhp.org.uk/category/real-change-mcr/
-  image: ""
+  image: assets/uploads/f2qep0hxaaaqsjr.jpg
 ---
