@@ -21,15 +21,15 @@ content:
     ![Image of notes made during co-production training. The notes are about what barriers people might face when participating in meetings, such as the style of participation and the room layout.](/assets/uploads/img_20230613_154554_326.jpg#thumbnail "Notes made during co-production training.")
 
 
-    T﻿he Booth Centre were invited to support [Homeless Link](https://www.homeless.org.uk/co-production-toolkit) in the development of their **Co-production Toolkit,** to support other homeless services in integrating a culture of genuine co-production in their organisations. Learn more by clicking here!
+    T﻿he Booth Centre were invited to support [Homeless Link](https://www.homeless.org.uk/co-production-toolkit) in the development of their **Co-production Toolkit,** to support other homeless services in integrating a culture of genuine co-production in their organisations. 
 
 
-    **To get involved,** please contact co-chair harris@boothcentre.org.uk to find out more. He is particularly calling on people with lived experience from outside the Booth Centre to join the group!
+    **To get involved,** please contact the co-chair harris@boothcentre.org.uk to find out more. He is particularly calling on people with lived experience from outside the Booth Centre to join the group.
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   heading: Co-production
   newsUrl: https://news.mhp.org.uk/category/co-production/
   subHeading: Ensuring that the voice of people with lived experience is
-    represented across the Partnership
-  image: 
+    represented across the Partnership.
+  image: null
 ---
