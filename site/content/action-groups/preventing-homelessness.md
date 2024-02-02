@@ -22,10 +22,10 @@ content:
     The group is chaired by Manchester City Council, the Booth Centre and Mustard Tree, and a wide range of services and individuals attend, including from Barnabus, Lifeshare, and Manchester Women’s Aid. 
 
 
-    **Membership is open,** and is particularly sought from people with personal experience of homelessness & homeless services in Manchester, and from people working in the sector.
+    **Membership is open,** and is particularly sought from people with personal experience of homelessness and homeless services in Manchester, and from people working in the sector.
   id: 57166257e4b09686f6b2c88f
-  contactEmail: jack.barton@mustardtree.org.uk
+  contactEmail: victoria.kell@manchester.gov.uk and/or info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
   newsUrl: https://news.mhp.org.uk/category/prevention/
-  image:
+  image: null
 ---
