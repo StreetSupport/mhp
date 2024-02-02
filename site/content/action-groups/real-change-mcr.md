@@ -27,7 +27,7 @@ content:
     The fund is used by Manchester homelessness organisations and charities who provide long-term support on the journey to independent living:
 
 
-    ![Booth Centre, Boaz Trust, Barnabus, Caritas Cornerstone and Morning Star, Coffee4Craig, GM Housing First, Humankind, Justlife, Manchester City of Sanctuary, Reach Out To The Community, Riverside, S.P.I.N](assets/uploads/real-change-manchester.jpg)
+    ![Booth Centre, Boaz Trust, Barnabus, Caritas Cornerstone and Morning Star, Coffee4Craig, GM Housing First, Humankind, Justlife, Manchester City of Sanctuary, Reach Out To The Community, Riverside, S.P.I.N](assets/uploads/rcm-awareness-event.jpg)
 
 
     Real Change MCR has a panel of people who volunteer their time to run, manage and allocate funds. The panel includes Manchester’s homeless organisations, charities, people who have been homeless, public sector staff, members of the business community and other Manchester organisations. 
