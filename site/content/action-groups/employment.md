@@ -41,7 +41,7 @@ content:
     All of the above help remove barriers to employment for individuals who have experience of homelessness. 
 
 
-     **T﻿o get involved**, please contact co-chair Chris on chris@radicalrecruit.org.uk
+     **T﻿o get involved**, please contact co-chair Jonathan from Engage, Grow, Go (EGG) on jonathan@egg.charity
 
 
     ![booth-centre-graphic](/assets/uploads/eag-fact.jpg#thumbnail)
@@ -50,5 +50,5 @@ content:
   heading: Employment
   newsUrl: https://news.mhp.org.uk/category/employment/
   subHeading: Creating new pathways into work for people who have experienced homelessness
-  image: 
+  image: null
 ---
