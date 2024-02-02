@@ -1,6 +1,6 @@
 ---
 action-group: yes
-title: Co-production
+title: Co-production Action Group
 slug: co-production
 key: co-production
 content:
