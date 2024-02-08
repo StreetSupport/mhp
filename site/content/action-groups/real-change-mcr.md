@@ -36,7 +36,7 @@ content:
     Y﻿ou can follow Real Change MCR on Twitter [here](https://twitter.com/RealChangeMANC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), and check out their website [here,](https://realchangemanchester.co.uk/) where you can also donate to keep this vital lifeline going.
   id: 57166237e4b09686f6b2c88b
   contactEmail: info@mhp.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/real-change-mcr/
   image: ""
 ---

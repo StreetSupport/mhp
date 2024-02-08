@@ -46,7 +46,7 @@ content:
 
     ![booth-centre-graphic](/assets/uploads/eag-fact.jpg#thumbnail)
   contactEmail: info@mhp.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: Employment
   newsUrl: https://news.mhp.org.uk/category/employment/
   subHeading: Creating new pathways into work for people who have experienced homelessness
