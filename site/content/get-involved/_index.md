@@ -34,5 +34,5 @@ about:
     Partnership
 strategyCta:
   title: Sign up for an action group
-  url: https://forms.office.com/Pages/DesignPageV2.aspx?origin=ShareFormPage&subpage=design&m2=1&id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
+  url: https://forms.office.com/Pages/DesignPageV2.aspx?origin=ShareFormPage&subpage=design&m2=1&id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u&analysis=false
 ---
