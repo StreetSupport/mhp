@@ -1,11 +1,12 @@
 ---
 action-group: yes
-title: Strategy Scrutiny Action Group
+title: Strategy and Scrutiny Action Group
 slug: strategy-scrutiny
 key: strategy-scrutiny
 content:
-  heading: Strategy Scrutiny Action Group
-  subHeading: "Co-producing the Manchester Homelessness Strategy "
+  heading: Strategy and Scrutiny Action Group
+  subHeading: "Monitoring the impact and outcomes of the Manchester Homelessness
+    and Rough Sleeping Strategy "
   body: >-
     **The Strategy Scrutiny Action Group leads the creation of Manchester’s
     city-wide, co-produced homelessness strategy.**  
