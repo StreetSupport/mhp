@@ -23,7 +23,7 @@ content:
     As the city’s new strategy for ending homelessness takes shape, **it is important to have a range of perspectives to inform how we tackle homelessness** – please get in touch if you are interested in joining the group.
   id: 59146d6f734d1d099dfdfce1
   contactEmail: john_ryan@shelter.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/strategy-scrutiny/
   image: null
 ---

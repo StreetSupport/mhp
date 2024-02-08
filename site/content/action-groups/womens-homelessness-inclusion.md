@@ -62,7 +62,7 @@ content:
     We at the Women’s Homelessness Involvement Group (WHIG) have developed some [key political asks](https://mhp.org.uk/assets/uploads/political-asks_sketches-whig.pdf). These are based on what women who are experiencing homelessness and stakeholders from frontline services have told us are the gaps in provision and barriers to accessing support. Through a coproduced approach with women, we have developed solutions to address those gaps and identified what is needed to improve homelessness services for women.
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: http://news.streetsupport.net/tag/women/
   image: 
 ---

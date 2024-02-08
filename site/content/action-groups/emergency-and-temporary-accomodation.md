@@ -29,7 +29,7 @@ content:
 
     T﻿he **Unsupported Temporary Accommodation (UTA) Action Group**, co-chaired by Justlife, focused on a population that is mainly ‘hidden’ from the public eye, with little or no support - people living in Unsupported Temporary Accommodation (UTA’s), such as bed-and-breakfast accommodation, private hostels and short-stay houses in multiple occupation.
   contactEmail: info@mhp.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: Accommodation Action Group
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
   subHeading: Emergency and Unsupported Temporary Accommodation

@@ -33,7 +33,7 @@ content:
     This action group strives to be inclusive of any person wishing to attend. For example, if we have attendees whose first language is not English, we will use existing resources to aid their participation, such as offering support from multi-lingual volunteers. We will not rely on email communication only; we will reach out via text message to attendees who do not have email access, and you can drop into the Booth Centre for a chat if you are interested in getting involved.
   id: 59f23a2bf36d285569313b49
   contactEmail: alix@boothcentre.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/non-uk-nationals/
   image: 
 ---

@@ -25,7 +25,7 @@ content:
     **Membership is open,** and is particularly sought from people with personal experience of homelessness and homeless services in Manchester, and from people working in the sector.
   id: 57166257e4b09686f6b2c88f
   contactEmail: victoria.kell@manchester.gov.uk and/or info@mhp.org.uk
-  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQkQ2JR41SuRLu92-3-tlPOtURDMzQjVZWEczSFdPS1M2SEZMR1RVTkpHVC4u
+  signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/prevention/
   image: null
 ---
