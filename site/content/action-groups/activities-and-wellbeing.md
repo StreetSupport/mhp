@@ -1,8 +1,8 @@
 ---
 action-group: yes
 title: Activities and Wellbeing Action Group
-slug: arts-and-heritage
-key: arts-and-heritage
+slug: activities-and-wellbeing
+key: activities-and-wellbeing
 content:
   body: This Activities and Wellbeing Action Group is currently in development. If
     you offer activities to people who are homeless, or facing homelessness, and
