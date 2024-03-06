@@ -41,12 +41,11 @@ whosInvolved:
   body: >-
     **Charity and voluntary:** Booth Centre, Barnabus, Coffee4Craig, Lifeshare,
     Mustard Tree, Greater Together Manchester, Justlife, Riverside, Manchester
-    Action on Street Health (MASH) Manchester Women's Aid, Shelter, Street
+    Action on Street Health (MASH), Manchester Women's Aid, Shelter, Street
     Support, Collaborative Women, Reach Out to the Community, Business In The
     Community, Boaz Trust, Real Change MCR, Migrant Destitution Fund,
-    Cornerstones, On The Out, Our Room, Albert Kennedy Trust (akt), Centrepoint,
-    Greater Manchester Immigration Aid Unit (GMIAU) and Engage, Grow, Go
-    (EGG)...
+    Cornerstones, On The Out, Our Room, Albert Kennedy Trust (akt), Centrepoint
+    and Greater Manchester Immigration Aid Unit (GMIAU).
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice, Manchester Metropolitan University, The University of Manchester...
