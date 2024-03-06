@@ -41,7 +41,7 @@ content:
     All of the above help remove barriers to employment for individuals who have experience of homelessness. 
 
 
-     **T﻿o get involved**, please contact co-chair Jonathan from Engage, Grow, Go ([EGG](https://egg.charity/)) on jonathan@egg.charity
+     **T﻿o get involved**, please email [info@mhp.org.uk](info@mhp.org.uk)
 
 
     ![booth-centre-graphic](/assets/uploads/eag-fact.jpg#thumbnail)
