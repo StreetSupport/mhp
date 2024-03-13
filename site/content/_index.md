@@ -44,8 +44,8 @@ whosInvolved:
     Support, Collaborative Women, Reach Out to the Community, Business In The
     Community, Boaz Trust, Real Change MCR, Migrant Destitution Fund,
     Cornerstones, On The Out, Our Room, Change Grow  Live (CGL), Albert Kennedy
-    Trust (akt), Centrepoint, Greater Manchester Immigration Aid Unit (GMIAU)
-    and Standing Tall.
+    Trust (akt), Centrepoint and Greater Manchester Immigration Aid Unit
+    (GMIAU).
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice, Manchester Metropolitan University, The University of Manchester...
