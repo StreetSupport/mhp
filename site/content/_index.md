@@ -20,12 +20,11 @@ whatIs:
 howDoesItWork:
   body: >-
     At the heart of the Partnership are our
-    [Charter](https://charter.streetsupport.net/read-the-charter/) values and
-    the [Actions Groups](https://mhp.org.uk/action-groups/) which tackle
-    specific challenges that people who are homeless may face. Each group
-    includes people who have experienced the topic in question, as well as other
-    relevant organisations. Most of our work is done voluntarily by the
-    fantastic people in our network.
+    [Charter](https://mhp.org.uk/charter/) values and the [Actions
+    Groups](https://mhp.org.uk/action-groups/) which tackle specific challenges
+    that people who are homeless may face. Each group includes people who have
+    experienced the topic in question, as well as other relevant organisations.
+    Most of our work is done voluntarily by the fantastic people in our network.
 
 
     We have a board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. 
