@@ -5,8 +5,12 @@ slug: employment
 key: employment
 content:
   body: >-
-    **The Employment Action Group (EAG) aims to create new pathways into work**
-    for people who have experienced homelessness.  
+    T﻿he next Employment Action Group is taking place on Tuesday 2 April from
+    2.30pm to 4.30pm at Macc in the Training Room, 3rd Floor, 20 Swan Street,
+    Manchester, M4 5JW.
+
+
+    **The Employment Action Group (EAG) aims to create new pathways into work** for people who have experienced homelessness.  
 
 
     > For many people who have experienced homelessness, private rented tenancies are often their only option to move on from emergency or temporary accommodation and create a home of their own. **For people to be able to secure and sustain tenancies, they need good jobs** - ideally full-time hours, paid at the real living wage, and with reasonable longevity of contract. 
