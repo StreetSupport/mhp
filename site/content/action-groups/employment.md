@@ -5,9 +5,9 @@ slug: employment
 key: employment
 content:
   body: >-
-    T﻿he next Employment Action Group is taking place on Tuesday 2 April from
-    2.30pm to 4.30pm at Macc in the Training Room, 3rd Floor, 20 Swan Street,
-    Manchester, M4 5JW.
+    The next Employment Action Group is taking place on Tuesday 7 May from
+    2.30pm to 4.30pm at the Macc offices, 3rd Floor, 20 Swan Street, Manchester,
+    M4 5JW.
 
 
     **The Employment Action Group (EAG) aims to create new pathways into work** for people who have experienced homelessness.  
