@@ -1,6 +1,6 @@
 ---
 action-group: yes
-title: Health Action Group
+title: Physical Health Action Group
 slug: health
 key: health
 content:
