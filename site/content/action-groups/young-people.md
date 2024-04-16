@@ -4,12 +4,10 @@ title: Young People's Action Group
 slug: young-people
 key: young-people
 content:
-  body: \*F﻿ebruary 2024 - This is a new action group for Manchester Homelessness
-    Partnership that is currently being developed. An online meeting is taking
-    place of interested people and organisations on Tuesday  5 March 2024 from
-    2pm to 4pm to develop the action group, agree terms of reference, decide who
-    will co-chair and lead the group, and agree on priorities. If you are
-    interested in participating, please email info@mhp.org.uk
+  body: This is a new action group for Manchester Homelessness Partnership that is
+    currently being developed. The next online meeting will be taking place on
+    Friday 26 April. If you are interested in taking part, please email
+    info@mhp.org.uk.
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: Young People
