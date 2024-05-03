@@ -10,6 +10,9 @@ content:
     M4 5JW.
 
 
+    G﻿roup members currently include the Booth Centre, Radical Recruit, Standing Tall, EGG, the Growth Company, DePaul, Centrepoint and Caritas Cornerstones.
+
+
     **The Employment Action Group (EAG) aims to create new pathways into work** for people who have experienced homelessness.  
 
 
