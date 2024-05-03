@@ -46,8 +46,8 @@ whosInvolved:
     Cornerstones, On The Out, Our Room, Change Grow  Live (CGL), Albert Kennedy
     Trust (akt), Centrepoint, Greater Manchester Immigration Aid Unit (GMIAU),
     Standing Tall, Shared Health Foundation, Greater Manchester Together, Depaul
-    UK, Greater Manchester Homelessness Action Network and Greater Manchester
-    Better Outcome Partnerships.
+    UK, Greater Manchester Homelessness Action Network, Greater Manchester
+    Better Outcome Partnerships and the Growth Company.
 
 
     **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Greater Manchester Probation, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice and Manchester Metropolitan University.
