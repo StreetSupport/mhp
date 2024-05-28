@@ -5,12 +5,9 @@ slug: employment
 key: employment
 content:
   body: >-
-    The next Employment Action Group is taking place on Tuesday 7 May from
-    2.30pm to 4.30pm at the Macc offices, 3rd Floor, 20 Swan Street, Manchester,
-    M4 5JW.
-
-
-    Action g﻿roup members currently include the Booth Centre, Radical Recruit, Standing Tall, EGG, the Growth Company, DePaul, Centrepoint and Caritas Cornerstones.
+    Action g﻿roup members currently include the Booth Centre, Radical Recruit,
+    Standing Tall, EGG, the Growth Company, DePaul, Centrepoint and Caritas
+    Cornerstones.
 
 
     **The Employment Action Group (EAG) aims to create new pathways into work** for people who have experienced homelessness.  
