@@ -57,18 +57,23 @@ whosInvolved:
     Cornerstones](https://www.caritassalford.org.uk/service/cornerstone-centre/),
     [On The Out](https://www.ontheout.org/), [Our
     Room](https://ourroom.org.uk/about-us/), [Change Grow Live
-    (CGL)](https://www.changegrowlive.org/manchester), [bert Kennedy Trust
-    (akt)](https://www.akt.org.uk/), Centrepoint, Greater Manchester Immigration
-    Aid Unit (GMIAU), Standing Tall, Shared Health Foundation, Greater
-    Manchester Together, Depaul UK, Greater Manchester Homelessness Action
-    Network, Greater Manchester Better Outcome Partnerships, Growth Company and
-    the Running Char
+    (CGL)](https://www.changegrowlive.org/manchester), [Albert Kennedy
+    Trust](https://www.akt.org.uk),
+    [Centrepoint](https://centrepoint.org.uk/what-we-do/manchester), [Greater
+    Manchester Immigration Aid Unit](https://gmiau.org/), [Standing
+    Tall](https://www.standingtall.org.uk/), [Shared Health
+    Foundation](https://sharedhealthfoundation.org.uk/), [Greater Together
+    Manchester](https://www.greatertogethermanchester.org/), [Depaul
+    UK](https://www.depaul.org.uk/), [Greater Manchester Homelessness Action
+    Network](https://www.gmhan.net/), [Greater Manchester Better Outcome
+    Partnerships](https://www.gmhomespartnership.org/about-us) and [the Running
+    Charity](https://therunningcharity.org/).
 
 
     **Statutory and Public Sector:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Greater Manchester Probation, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice and Manchester Metropolitan University.
 
 
-    **Business:** Adept Corporate Services, Arndale, Barclays, Bruntwood, CityCo, HSBC, Laing O’Rourke, Lloyds Banking Group, Radical Recruit and the Greater Manchester Academies Trust.
+    **Business:** Adept Corporate Services, Arndale, Barclays, Bruntwood, CityCo, HSBC, Laing O’Rourke, Lloyds Banking Group, Radical Recruit and the Greater Manchester Academies Trust and the [Growth Company](https://www.growthco.uk/).
 
 
     And many more local organisations and dedicated individuals.
