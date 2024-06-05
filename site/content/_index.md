@@ -43,19 +43,29 @@ whosInvolved:
     [Coffee4Craig](https://www.coffee4craig.org/),
     [Lifeshare](https://www.lifeshare.org.uk/), [Mustard
     Tree](https://mustardtree.org.uk/), [Greater Together
-    Manchester](https://www.greatertogethermanchester.org/), Justlife,
-    Riverside, Manchester Action on Street Health (MASH), Manchester Women's
-    Aid, Shelter, Street Support, Collaborative Women, Reach Out to the
-    Community, Business In The Community, Boaz Trust, Real Change MCR, Migrant
-    Destitution Fund, Cornerstones, On The Out, Our Room, Change Grow  Live
-    (CGL), Albert Kennedy Trust (akt), Centrepoint, Greater Manchester
-    Immigration Aid Unit (GMIAU), Standing Tall, Shared Health Foundation,
-    Greater Manchester Together, Depaul UK, Greater Manchester Homelessness
-    Action Network, Greater Manchester Better Outcome Partnerships, Growth
-    Company and the [Running Charity](https://therunningcharity.org/about-us/).
+    Manchester](https://www.greatertogethermanchester.org/),
+    [Justlife](https://www.justlife.org.uk/),
+    [Riverside](https://www.riverside.org.uk/), [Manchester Action on Street
+    Health (MASH)](https://mash.org.uk/), [Manchester Women's
+    Aid](https://www.pankhursttrust.org/),
+    [Shelter](https://www.shelter.org.uk/), [Street Support
+    Network](https://streetsupport.net/), [Reach Out to the
+    Community](https://reachouttothecommunity.co.uk/), [Boaz
+    Trust](https://www.boaztrust.org.uk/), [Real Change
+    MCR](https://realchangemanchester.co.uk/), [GM Migrant Destitution
+    Fund](https://www.migrantdestitution.co.uk/), [Caritas
+    Cornerstones](https://www.caritassalford.org.uk/service/cornerstone-centre/),
+    [On The Out](https://www.ontheout.org/), [Our
+    Room](https://ourroom.org.uk/about-us/), [Change Grow Live
+    (CGL)](https://www.changegrowlive.org/manchester), [bert Kennedy Trust
+    (akt)](https://www.akt.org.uk/), Centrepoint, Greater Manchester Immigration
+    Aid Unit (GMIAU), Standing Tall, Shared Health Foundation, Greater
+    Manchester Together, Depaul UK, Greater Manchester Homelessness Action
+    Network, Greater Manchester Better Outcome Partnerships, Growth Company and
+    the Running Char
 
 
-    **Statutory:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Greater Manchester Probation, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice and Manchester Metropolitan University.
+    **Statutory and Public Sector:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Greater Manchester Probation, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice and Manchester Metropolitan University.
 
 
     **Business:** Adept Corporate Services, Arndale, Barclays, Bruntwood, CityCo, HSBC, Laing O’Rourke, Lloyds Banking Group, Radical Recruit and the Greater Manchester Academies Trust.
