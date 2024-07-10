@@ -4,9 +4,9 @@ title: Physical Health Action Group
 slug: health
 key: health
 content:
-  body: This action group is in development and is being led by Cornerstones,
-    Caritas.
-  contactEmail: info@mhp.org.uk
+  body: The Physical Health Action Group is being led by Caritas Cornerstones.
+    Please contact Sophie Garforth for details of the action group meetings.
+  contactEmail: s.garforth@caritassalford.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: Health
   newsUrl: https://mhp.org.uk/action-groups/health
