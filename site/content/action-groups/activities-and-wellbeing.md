@@ -5,12 +5,11 @@ slug: activities-and-wellbeing
 key: activities-and-wellbeing
 content:
   body: >-
-    This Activities and Wellbeing Action Group will be meeting on Monday 22
-    April from 12pm to 2pm at the Booth Centre,  Edward Holt House, Pimblett
-    Street, M31FU. Please arrive at reception to sign in and you will be shown
-    to the training room. If you offer activities to people who are homeless, or
-    facing homelessness, and you would like to join the group, please email
-    info@mhp.org.uk. 
+    This Activities and Wellbeing Action Group is led by Greater Manchester
+    Together and Lifeshare. 
+
+
+    If you offer activities to people who are experiencing homelessness, please email **info@mhp.org.uk** for information on when the meetings take place. 
 
 
     If you are delivering activities in Manchester around health and wellbeing and would like to promote these wider, please feel free to attend the action group. It would be great to collaborate!
