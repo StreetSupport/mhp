@@ -1,10 +1,10 @@
 ---
 action-group: yes
-title: Migration and Homelessnes
+title: Migration and Homelessness
 slug: non-uk-nationals
 key: non-uk-nationals
 content:
-  heading: Non-UK Nationals Action Group
+  heading: Migration and Homelessness
   subHeading: Effecting change for non-UK nationals experiencing homelessness in Manchester
   body: >-
     The Migration and Homelessness Action Group aims to effect positive change
