@@ -20,7 +20,7 @@ about:
     ##### Help for someone sleeping rough 
 
 
-    If you are worried about someone you’ve seen sleeping rough in Manchester, you can alert the Council on their [website](https://secure.manchester.gov.uk/forms/form/1183/en/report_rough_sleeping). Alternatively, you can inform Streetlink by downloading the [Streetlink app](https://www.streetlink.org.uk/).
+    If you are worried about someone you’ve seen sleeping rough in Manchester, you can alert the Council on their [website](https://www.manchester.gov.uk/site/scripts/documents_info.php?categoryID=200117&documentID=3032). Alternatively, you can inform Streetlink by downloading the [Streetlink app](https://www.streetlink.org.uk/).
 
 
     ##### Help for someone who has recently become homeless 
