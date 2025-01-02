@@ -56,8 +56,8 @@ whosInvolved:
     Fund](https://www.migrantdestitution.co.uk/), [Caritas
     Cornerstone](https://www.caritassalford.org.uk/service/cornerstone-centre/),
     [On The Out](https://www.ontheout.org/), [Our
-    Room](https://ourroom.org.uk/about-us/), [Change Grow Live
-    (CGL)](https://www.changegrowlive.org/manchester), [Albert Kennedy
+    Room](https://ourroom.org.uk/about-us/), [Change Grow
+    Live](https://www.changegrowlive.org/manchester), [Albert Kennedy
     Trust](https://www.akt.org.uk),
     [Centrepoint](https://centrepoint.org.uk/what-we-do/manchester), [Greater
     Manchester Immigration Aid Unit](https://gmiau.org/), [Standing
