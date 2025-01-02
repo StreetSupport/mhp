@@ -70,10 +70,10 @@ whosInvolved:
     Charity](https://therunningcharity.org/).
 
 
-    **Statutory and Public Sector:** Department for Work and Pensions, Greater Manchester Combined Authority, Greater Manchester Police, Greater Manchester Probation, Manchester City Council - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice, Manchester Metropolitan University and the University of Manchester. 
+    **Statutory and Public Sector:** Department for Work and Pensions, [Greater Manchester Combined Authority](https://www.greatermanchester-ca.gov.uk/), Greater Manchester Police, Greater Manchester Probation, [Manchester City Council](https://www.manchester.gov.uk/) - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice, Manchester Metropolitan University and the University of Manchester. 
 
 
-    **Business:** Manchester Arndale, Barclays, Bruntwood, CityCo, HSBC, Laing O’Rourke, Lloyds Banking Group, Radical Recruit, Greater Manchester Academies Trust and the [Growth Company](https://www.growthco.uk/).
+    **Business:** [Manchester Arndale](https://manchesterarndale.com/), Barclays, [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [Radical Recruit](https://radicalrecruit.co.uk/), [Greater Manchester Academies Trust](https://www.gmacademiestrust.com/) and the [Growth Company](https://www.growthco.uk/).
 
 
     And many more local organisations and dedicated individuals.
