@@ -26,7 +26,7 @@ about:
     ##### Help for someone who has recently become homeless 
 
 
-    If you want to support someone who has recently become homeless it's important to get the right advice as soon as possible. The first thing to do is contact Manchester City Council on 0161 234 4692 between 9am to 4.30pm, Monday to Friday (except bank holidays) for help and support. When the office is closed, phone the out of hours line: 0161 234 5001 
+    If you want to support someone who has recently become homeless it's important to get the right advice as soon as possible. Visit the Manchester City Council [website](https://www.manchester.gov.uk/info/200117/homeless_people/7850/are_you_homeless).
 
 
     Help for someone at risk of losing their home 
@@ -87,6 +87,12 @@ about:
     [Mustard Tree](https://mustardtree.org.uk/support-us/donate-goods/) – donate goods and furniture 
 
 
+    [C﻿aritas Cornerstone Centre](https://www.caritassalford.org.uk/service/cornerstone-centre/)
+
+
+    [L﻿ifeshare](https://www.lifeshare.org.uk/)
+
+
     Please check each organisation's own website for an up-to-date list of the most useful items needed. For unusual, culturally-specific or high-volume offers please email [info@mhp.org.uk](info@mhp.org.uk/) / [info@mcrcommunitycentral.org](info@mcrcommunitycentral.org) and we will try to signpost you to a relevant specialist organisation in liaison with [Macc](https://macc.org.uk/home). 
 
 
@@ -120,7 +126,7 @@ about:
     ### Are you from a community or voluntary group looking for advice or connections?
 
 
-    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, incuding on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
+    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, including on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
 
 
     For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk)
