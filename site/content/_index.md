@@ -65,15 +65,15 @@ whosInvolved:
     Foundation](https://sharedhealthfoundation.org.uk/), [Greater Together
     Manchester](https://www.greatertogethermanchester.org/), [Depaul
     UK](https://www.depaul.org.uk/), [Greater Manchester Homelessness Action
-    Network](https://www.gmhan.net/), [Greater Manchester Better Outcome
+    Network](https://www.gmhan.net/), [Greater Manchester Better Outcomes
     Partnership](https://www.gmhomespartnership.org/about-us)and [the Running
     Charity](https://therunningcharity.org/).
 
 
-    **Statutory and Public Sector:** Department for Work and Pensions, [Greater Manchester Combined Authority](https://www.greatermanchester-ca.gov.uk/), Greater Manchester Police, Greater Manchester Probation, [Manchester City Council](https://www.manchester.gov.uk/) - including MCC Commissioning, Rough Sleeper Team and MCC Work and Skills, NHS, Riverside Housing, Urban Village Medical Practice, Manchester Metropolitan University and the University of Manchester. 
+    **Statutory and Public Sector:** Department for Work and Pensions, [Greater Manchester Combined Authority](https://www.greatermanchester-ca.gov.uk/), [Greater Manchester Police](https://www.gmp.police.uk/), Greater Manchester Probation, [Manchester City Council](https://www.manchester.gov.uk/), NHS, [Riverside Housing](https://www.riverside.org.uk/), [Urban Village Medical Practice](https://uvmp.co.uk/), [Manchester Metropolitan University](https://www.mmu.ac.uk/) and the [University of Manchester](https://www.manchester.ac.uk/). 
 
 
-    **Business:** [Manchester Arndale](https://manchesterarndale.com/), Barclays, [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [Radical Recruit](https://radicalrecruit.co.uk/), [Greater Manchester Academies Trust](https://www.gmacademiestrust.com/) and the [Growth Company](https://www.growthco.uk/).
+    **Business:** [Manchester Arndale](https://manchesterarndale.com/), [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [Radical Recruit](https://radicalrecruit.co.uk/), [Greater Manchester Academies Trust](https://www.gmacademiestrust.com/) and the [Growth Company](https://www.growthco.uk/).
 
 
     And many more local organisations and dedicated individuals.
