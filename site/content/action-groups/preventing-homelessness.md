@@ -27,5 +27,5 @@ content:
   contactEmail: Sareena@boothcentre.org.uk and/or info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/prevention/
-  image: assets/uploads/dsc00151.jpg
+  image: assets/uploads/louise.jpg
 ---
