@@ -13,7 +13,7 @@ content:
     heard.  
 
 
-    After relaunching in 2022, the group is looking at **mapping prevention services across the city, and lobbying for systems change.** 
+    Following the relaunch in 2022, the group is looking at **mapping prevention services across the city, and lobbying for systems change.** 
 
 
     > Homelessness prevention should be about proactively building wellbeing and participation, as well as taking steps to respond effectively when people need help.
@@ -23,9 +23,6 @@ content:
 
 
     **Membership is open,** and is particularly sought from people with personal experience of homelessness and homeless services in Manchester, and from people working in the sector.
-
-
-    ![](assets/uploads/louise.jpg)
   id: 57166257e4b09686f6b2c88f
   contactEmail: Sareena@boothcentre.org.uk and/or info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
