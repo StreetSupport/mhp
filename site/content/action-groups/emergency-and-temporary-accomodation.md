@@ -11,8 +11,6 @@ content:
     Night (ABEN) and reviewing the emergency accommodation standards.
 
 
-
-
     The **Emergency Accommodation Action Group** aimed to raise the standards of emergency accommodation in Manchester. Achievements of the group included drawing up the vision and minimum standards, and getting these adopted by the MHP and Manchester City Council - they now form the basis for the commissioning of these services.
 
 
@@ -22,9 +20,7 @@ content:
     Watch >> [Let's work together to bring in the minimum standards](https://www.youtube.com/watch?v=KVapWFHxcRk)
 
 
-    Download > > [Minimum standards and vision for 2022](https://www.boothcentre.org.uk/partnerships.html)
-
-
+    Download > > [Minimum standards and vision for 2022](https://mcusercontent.com/8fd6e73ffa2daafb4a46d5eb5/files/2915243c-bb77-05d2-ebf4-ef5aaef24058/manchesters_ea_standards_digital.pdf)
 
 
     T﻿he **Unsupported Temporary Accommodation (UTA) Action Group**, co-chaired by Justlife, focused on a population that is mainly ‘hidden’ from the public eye, with little or no support - people living in Unsupported Temporary Accommodation (UTA’s), such as bed-and-breakfast accommodation, private hostels and short-stay houses in multiple occupation.
@@ -33,5 +29,5 @@ content:
   heading: Accommodation Action Group
   newsUrl: http://news.streetsupport.net/tag/emergency-accomodation/
   subHeading: Emergency and Unsupported Temporary Accommodation
-  image: 
+  image: null
 ---
