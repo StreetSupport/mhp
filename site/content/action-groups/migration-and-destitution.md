@@ -7,8 +7,8 @@ content:
   heading: Migrant Destitution Action Group
   subHeading: Supporting people forced into destitution by their immigration status
   body: >-
-    [](<>)I﻿n partnership with Macc, the **Migrant Destitution Action Group
-    manages the [Greater Manchester Migrant Destitution
+    I﻿n partnership with Macc, the **Migrant Destitution Action Group manages
+    the [Greater Manchester Migrant Destitution
     Fund](https://www.migrantdestitution.co.uk/),** which provides cash grants
     to those forced into destitution by their immigration status, who are not
     entitled to work or access benefits. By providing monthly cash grants, the
@@ -36,5 +36,5 @@ content:
   contactEmail: info@migrantdestitution.co.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/migration-and-destitution/
-  image: 
+  image: null
 ---
