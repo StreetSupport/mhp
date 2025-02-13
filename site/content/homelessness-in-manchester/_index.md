@@ -78,5 +78,8 @@ about:
 
 
     Read the Greater Manchester Homelessness Prevention Strategy [here](https://www.gmhan.net/assets/uploads/gmhps-final.pdf).
+
+
+    R﻿ead the Cross Borough Homelessness Placements Pan Greater Manchester Out of Borough Placement Protocol September 2024 [here](https://democracy.greatermanchester-ca.gov.uk/documents/s33810/14B%20GMCA%20Appendix%202%20GM%20OOB%20Protocol.pdf).
   heading: Learn about homelessness in Manchester
 ---
