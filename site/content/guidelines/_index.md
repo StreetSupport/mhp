@@ -29,11 +29,12 @@ guidelineList:
     heading: "For volunteer-led services: Standards Toolkit"
   guidelineThree:
     body: "Are you a business which works with people who appear to be street
-      homeless near your organisation? Sharing Spaces: A guide for city centre
-      organisations, created by the Manchester Homelessness Partnership, will
-      guide you to develop your own positive approach to working with people who
-      are homeless and inform your staff about what provision is available for
-      people who are homeless."
+      homeless near your organisation? Street Homeless: A guide for city centre
+      organisations, created by the Manchester Homelessness Partnership, CityCo
+      and Manchester City Council will guide you to develop your own positive
+      approach to working with people who are homeless and inform your staff
+      about what provision is available for people who are homeless. By clicking
+      on the Read More button, it will download a copy of the guide."
     link: https://mcusercontent.com/8fd6e73ffa2daafb4a46d5eb5/files/d28688ad-dc31-9671-5651-c69d760694b6/Street_Homeless_A_Guide_for_City_Centre_Organisations.docx
     heading: "For businesses: Sharing Spaces Guide"
   guidelineFour:
