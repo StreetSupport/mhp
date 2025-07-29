@@ -30,10 +30,10 @@ howDoesItWork:
     We have a board of representatives from different perspectives of our city which meets to use its collective influence to remove systemic blockages. 
 
 
-    Part of the ‘glue’ that holds our network together is our MHP Network and Communications Worker, a post hosted by [Macc](https://manchestercommunitycentral.org/about-us) and is partly funded by Manchester City Council.
+    Part of the ‘glue’ that holds our network together is our MHP Network and Communications Worker, a post hosted by [Macc](https://manchestercommunitycentral.org/about-us) and is funded by Manchester City Council and the National Lottery Reaching Communities fund.
 
 
-    We are also linked into the [Greater Manchester Homelessness Action Network](https://www.gmhan.net/).
+    We are also linked into the [Greater Manchester Homelessness Action Network](https://www.gmhan.net/)
   heading: How does it work?
   image: assets/images/how-it-works.png
 whosInvolved:
