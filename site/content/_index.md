@@ -64,16 +64,14 @@ whosInvolved:
     Tall](https://www.standingtall.org.uk/), [Shared Health
     Foundation](https://sharedhealthfoundation.org.uk/), [Greater Together
     Manchester](https://www.greatertogethermanchester.org/), [Depaul
-    UK](https://www.depaul.org.uk/), [Greater Manchester Homelessness Action
-    Network](https://www.gmhan.net/), [Greater Manchester Better Outcomes
-    Partnership](https://www.gmhomespartnership.org/about-us)and [the Running
-    Charity](https://therunningcharity.org/).
+    UK](https://www.depaul.org.uk/), and the [Greater Manchester Homelessness
+    Action Network](https://www.gmhan.net/)
 
 
     **Statutory and Public Sector:** Department for Work and Pensions, [Greater Manchester Combined Authority](https://www.greatermanchester-ca.gov.uk/), [Greater Manchester Police](https://www.gmp.police.uk/), Greater Manchester Probation, [Manchester City Council](https://www.manchester.gov.uk/), NHS, [Riverside Housing](https://www.riverside.org.uk/), [Urban Village Medical Practice](https://uvmp.co.uk/), [Manchester Metropolitan University](https://www.mmu.ac.uk/) and the [University of Manchester](https://www.manchester.ac.uk/). 
 
 
-    **Business:** [Manchester Arndale](https://manchesterarndale.com/), [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [Radical Recruit](https://radicalrecruit.co.uk/), [Greater Manchester Academies Trust](https://www.gmacademiestrust.com/) and the [Growth Company](https://www.growthco.uk/).
+    **Business:** [Manchester Arndale](https://manchesterarndale.com/), [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [](https://radicalrecruit.co.uk/)[Greater Manchester Academies Trust](https://www.gmacademiestrust.com/), and the [Growth Com](https://www.growthco.uk/)
 
 
     And many more local organisations and dedicated individuals.
