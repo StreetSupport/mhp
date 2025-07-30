@@ -71,10 +71,7 @@ whosInvolved:
     **Statutory and Public Sector:** Department for Work and Pensions, [Greater Manchester Combined Authority](https://www.greatermanchester-ca.gov.uk/), [Greater Manchester Police](https://www.gmp.police.uk/), Greater Manchester Probation, [Manchester City Council](https://www.manchester.gov.uk/), NHS, [Riverside Housing](https://www.riverside.org.uk/), [Urban Village Medical Practice](https://uvmp.co.uk/), [Manchester Metropolitan University](https://www.mmu.ac.uk/) and the [University of Manchester](https://www.manchester.ac.uk/). 
 
 
-    **Business:** [Manchester Arndale](https://manchesterarndale.com/), [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, [](https://radicalrecruit.co.uk/)[Greater Manchester Academies Trust](https://www.gmacademiestrust.com/), and the [Growth Com](https://www.growthco.uk/)
-
-
-    And many more local organisations and dedicated individuals.
+    **Business:** [Manchester Arndale](https://manchesterarndale.com/), [Bruntwood](https://bruntwood.co.uk/), [CityCo](https://cityco.com/), HSBC, Laing O’Rourke, Lloyds Banking Group, Greater Manchester Academies, The Growth Company, LUSH, and many others.
   heading: Who's involved?
   subHeading: "The Manchester Homelessness Partnership currently works with the
     following organisations:"
