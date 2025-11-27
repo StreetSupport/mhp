@@ -8,7 +8,7 @@ content:
   subHeading: "Monitoring the impact and outcomes of the Manchester Homelessness
     and Rough Sleeping Strategy "
   body: >-
-    **The Strategy Scrutiny Action Group leads the creation of Manchester’s
+    **The Strategy and Scrutiny Action Group leads the creation of Manchester’s
     city-wide, co-produced homelessness strategy.**  
 
 
