@@ -10,21 +10,9 @@ content:
     **What is the purpose of the group?**
 
 
-    * To drive change towards more women-only accommodation
+    * To amplify women's experiences of homelessness, which are often overlooked
 
-
-    **What we mean by women-only accommodation is:**
-
-
-    * Completely separate from male accommodation
-
-    * Small accommodation – a smaller building with fewer rooms
-
-    * Properly staffed and trauma informed
-
-    * To improve homeless services for women in Manchester
-
-    * Through meaningful involvement from experts by experience to ensure women’s voices are heard, listened to and acted on by services and decision makers
+    * To ensure women with lived experience of homelessness have a safe space to meet and through meaningful involvement their voices are heard, listened to and acted on by services and decision makers 
 
 
     **What are the aims of the group?**
@@ -32,37 +20,48 @@ content:
 
     * Influence providers and commissioners
 
-    * Improve women’s emergency accommodation (and women’s experience of this)
+    * Improve accessibility to women’s services, and make information more readily available
 
-    * Influence a more joined up and gendered approach to staff training and workplace practices
+    * Improve knowledge for professionals to have more gender-informed and trauma-informed approach to service users
 
-    * Improve service information available for women and access for women
 
-      **Why and how was the group established?**
+    **Why and how was the group established?**
 
-      The group was established in late 2018, after a launch event. Street Support and Manchester Homelessness Partnership (MHP) set-up the group, because they felt that there was a need for something for women. The launch event held last in 2018 brought together about 100 women, this was coordinated by Street Support and co-facilitated by them and Eve Holt. From this the women said that they wanted a women’s homelessness action group and this was taken forward bsy MASH and Riverside for the first few meetings. Since 2020 WHIG has been coordinated by The Pankhurst Trust (Incorporating Manchester Women's Aid).
 
-      **What Does Membership look like?**
+    The group was established in late 2018, after a launch event. Street Support and Manchester Homelessness Partnership (MHP) set-up the group, because they felt that there was a need for something for women. The launch event held last in 2018 brought together about 100 women, this was co-ordinated by Street Support and co-facilitated by them and Eve Holt. From this the women said that they wanted a women’s homelessness action group and this was taken forward by MASH and Riverside for the first few meetings. 
 
-      Membership of the group is open to women and those who identify as women, including those with lived experience, volunteers and staff who are committed to involvement and influencing change that improves women's experiences of homeless services and accommodation. There is representation from a range of organisations. There is also a key aim of encouraging representation from the local authority. there are no restrictions on numbers. 
 
-      **How does the group work?**
+    This action group is currently co-chaired by [Manchester Women's Aid](https://www.manchesterwomensaid.org/) and the [Booth Centre](https://www.boothcentre.org.uk/).
 
-      WHIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, working groups and the WHIG mailing list. 
+
+    **What Does Membership look like?**
+
+
+    Membership of the group is open to women and those who identify as women. We aim to ensure this action group is inclusive as possible.  We invite those with lived experience, volunteers and staff who are committed to involvement and influencing change that improves women's experiences of homeless services and accommodation. There is representation from a range of organisations. There is also a key aim of encouraging representation from the local authority. there are no restrictions on numbers. 
+
+
+    **How does the group work?**
+
+
+    WHIG is working towards a true co-production model and is adopting these principles in it's approach through actively encouraging representation from a range of different services and individuals with lived experience coming together to do work, make decisions and listen to each other. 
+
+
+    Like all MHP Action Groups, this group is working towards a shared purpose and the vision of the MHP to end homelessness. 
+
+
+    There are a range of different opportunities for individuals to feed into the group via monthly face to face meetings, online access and joining the action group mailing list. 
+
 
     **Where and when does the group meet?**
 
 
-    WHIG holds monthly face to face meetings at various locations across Manchester on the 4th Wednesday of the month. We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG and can host a meeting, please contact us womencochairs@gmail.com
+    WHIG holds monthly face to face meetings at the [Booth Centre](https://www.boothcentre.org.uk/) on the last Thursday of each month from 2pm to 3pm. The address is Booth Centre, Edward Holt House, Pimblett Street, M3 1FU.
 
 
-    **Women’s Homelessness Involvement Group’s Political Asks**
-
-
-    We at the Women’s Homelessness Involvement Group (WHIG) have developed some [key political asks](https://mhp.org.uk/assets/uploads/political-asks_sketches-whig.pdf). These are based on what women who are experiencing homelessness and stakeholders from frontline services have told us are the gaps in provision and barriers to accessing support. Through a coproduced approach with women, we have developed solutions to address those gaps and identified what is needed to improve homelessness services for women.
+    We want to make the group as accessible as possible so if you are working with women who would like to attend WHIG, and can host a meeting, please contact us via email at **womencochairs@gmail.com**
   id: 57166268e4b09686f6b2c893
   contactEmail: womencochairs@gmail.com
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: http://news.streetsupport.net/tag/women/
-  image: 
+  image: null
 ---
