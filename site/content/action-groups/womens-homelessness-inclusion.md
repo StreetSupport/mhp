@@ -34,7 +34,7 @@ content:
     This action group is currently co-chaired by [Manchester Women's Aid](https://www.manchesterwomensaid.org/) and the [Booth Centre](https://www.boothcentre.org.uk/).
 
 
-    **What Does Membership look like?**
+    **What does membership look like?**
 
 
     Membership of the group is open to women and those who identify as women. We aim to ensure this action group is inclusive as possible.  We invite those with lived experience, volunteers and staff who are committed to involvement and influencing change that improves women's experiences of homeless services and accommodation. There is representation from a range of organisations. There is also a key aim of encouraging representation from the local authority. there are no restrictions on numbers. 
