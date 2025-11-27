@@ -5,14 +5,17 @@ slug: activities-and-wellbeing
 key: activities-and-wellbeing
 content:
   body: >-
-    This Activities and Wellbeing Action Group is led by Greater Manchester
-    Together and Lifeshare. 
+    This Activities and Wellbeing Action Group is led by [Greater Together
+    Manchester](https://www.greatertogethermanchester.org/).
 
 
     If you offer activities to people who are experiencing homelessness, please email **info@mhp.org.uk** for information on when the meetings take place. 
 
 
     If you are delivering activities in Manchester around health and wellbeing and would like to promote these wider, please feel free to attend the action group. It would be great to collaborate!
+
+
+    T﻿he action group meets on a regular basis and if you are interested in attending or coming along to share your activity, please email **info@mhp.org.uk**
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: "Activities and Wellbeing "
