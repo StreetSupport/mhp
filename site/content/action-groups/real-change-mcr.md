@@ -27,16 +27,19 @@ content:
     The fund is used by Manchester homelessness organisations and charities who provide long-term support on the journey to independent living.
 
 
-    Real Change MCR has a panel of people who volunteer their time to run, manage and allocate funds. The panel includes Manchester’s homeless organisations, charities, people who have been homeless, public sector staff, members of the business community and other Manchester organisations. 
+    Real Change MCR has a panel of volunteers who given their time to receive funding applications, approve them and grant funding. The volunteers bring their experience and skills from the following organisations - Manchester Metropolitan University, CityCo, Booth Centre, Reach out to the Community, GAME FM, Encore and Manchester City Council.
 
 
-    Macc – Manchester’s voluntary community sector organisation – manage the fund’s administration. 
+    [Manchester Community Central](https://manchestercommunitycentral.org/) manage the Real Change MCR fund’s administration. 
 
 
-    Y﻿ou can follow Real Change MCR on Twitter [here](https://twitter.com/RealChangeMANC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), and check out their website [here,](https://realchangemanchester.co.uk/) where you can also donate to keep this vital lifeline going.
+    You can follow Real Change MCR on the following social media platforms - Facebook, LinkedIn and Instagram.
+
+
+    Y﻿ou can read further information on our Real Change MCR [website](https://realchangemanchester.co.uk/).
   id: 57166237e4b09686f6b2c88b
-  contactEmail: info@mhp.org.uk
+  contactEmail: val@macc.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   newsUrl: https://news.mhp.org.uk/category/real-change-mcr/
-  image: ""
+  image: assets/uploads/realchange_staffposter_a3.jpg
 ---
