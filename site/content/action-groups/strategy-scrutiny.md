@@ -1,6 +1,6 @@
 ---
 action-group: yes
-title: Strategy and Scrutiny Action Group
+title: "Strategy and Scrutiny Action Group "
 slug: strategy-scrutiny
 key: strategy-scrutiny
 content:
