@@ -1,10 +1,10 @@
 ---
 action-group: yes
-title: Real Change MCR Action Group
+title: Real Change MCR Funding Panel
 slug: real-change-mcr
 key: real-change-mcr
 content:
-  heading: Real Change MCR
+  heading: Real Change MCR Funding Panel
   subHeading: "Real Change MCR is a fund to help people experiencing homelessness
     pay for practical items that they need to build lives away from the streets.
     "
