@@ -24,7 +24,10 @@ content:
     T﻿he Booth Centre were invited to support [Homeless Link](https://www.homeless.org.uk/co-production-toolkit) in the development of their **Co-production Toolkit,** to support other homeless services in integrating a culture of genuine co-production in their organisations. 
 
 
-    **To get involved,** please contact the co-chair harris@boothcentre.org.uk to find out more. He is particularly calling on people with lived experience from outside the Booth Centre to join the group.
+    **To get involved,** please contact the co-chair Jay at jay@boothcentre.org.uk 
+
+
+    He is particularly calling on people with lived experience of homelessness from outside the Booth Centre to join the group.
   contactEmail: info@mhp.org.uk
   signupLink: https://forms.office.com/Pages/ResponsePage.aspx?id=XVwzcf1bkE61VN8N5KjjQjkoCHBJKMVKuWG3gz25EypUM1gxNTZLNUgwS0tGNUhNVkExNUJPRkY5Ni4u
   heading: Co-production
