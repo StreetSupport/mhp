@@ -12,7 +12,7 @@ content:
     city-wide, co-produced homelessness strategy.**  
 
 
-    You can read the new Manchester's Homelessness and Rough Sleeping Strategy [here](https://www.manchester.gov.uk/info/200117/homeless_people/7160/homelessness_strategy). 
+    You can read the current Manchester's Homelessness and Rough Sleeping Strategy [here](https://www.manchester.gov.uk/info/200117/homeless_people/7160/homelessness_strategy). 
 
 
     Originally established to feed into and scrutinise the Council’s strategy on homelessness, the group decided to take a different approach and create a brand-new strategy which would be co-produced from start to finish - becoming **a strategy for the city as a whole, and all the services connected to ending and preventing homelessness.** 
