@@ -33,7 +33,7 @@ content:
     [Manchester Community Central](https://manchestercommunitycentral.org/) manage the Real Change MCR fund’s administration. 
 
 
-    You can follow Real Change MCR on the following social media platforms - Facebook, LinkedIn and Instagram.
+    You can follow Real Change MCR on the following social media platforms - [Facebook](https://www.facebook.com/p/Realchangemcr-100063904156025/), [LinkedIn page](https://www.linkedin.com/company/realchangemanchester/posts/?feedView=all) and [Instagram](https://www.instagram.com/realchangemcr/).
 
 
     Y﻿ou can read further information on our Real Change MCR [website](https://realchangemanchester.co.uk/).
