@@ -4,7 +4,7 @@ title: Greater Manchester Migrant Destitution Fund
 slug: migration-and-destitution
 key: migration-and-destitution
 content:
-  heading: Migrant Destitution Action Group
+  heading: Greater Manchester Migrant Destitution Fund
   subHeading: Supporting people forced into destitution by their immigration status
   body: >-
     I﻿n partnership with Macc, the **Migrant Destitution Action Group manages
