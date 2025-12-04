@@ -1,6 +1,6 @@
 ---
 action-group: yes
-title: Migrant Destitution Action Group
+title: Greater Manchester Migrant Destitution Fund
 slug: migration-and-destitution
 key: migration-and-destitution
 content:
