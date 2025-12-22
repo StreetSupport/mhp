@@ -93,13 +93,10 @@ about:
     [L﻿ifeshare](https://www.lifeshare.org.uk/)
 
 
-    Please check each organisation's own website for an up-to-date list of the most useful items needed. For unusual, culturally-specific or high-volume offers please email [info@mhp.org.uk](info@mhp.org.uk/) / [info@mcrcommunitycentral.org](info@mcrcommunitycentral.org) and we will try to signpost you to a relevant specialist organisation in liaison with [Macc](https://macc.org.uk/home). 
+    Please check each organisation's own website for an up-to-date list of the most useful items needed. For unusual, culturally-specific or high-volume offers please email [info@mhp.org.uk](info@mhp.org.uk/) / [info@mcrcommunitycentral.org](info@mcrcommunitycentral.org) and we will try to signpost you to a relevant specialist organisation. 
 
 
-    #### Volunteer 
-
-
-    If you’d like to volunteer to help end homelessness in Manchester, please contact the [Volunteer Centre](https://manchestercommunitycentral.org/volunteer-centre-manchester/) who can connect you to an organisation in need of volunteers. Or call Macc’s Volunteering Team on 0161 830 4770 (Monday to Friday 10am to 4pm) or email [info@volunteercentremanchester.co.uk](info@volunteercentremanchester.co.uk)  
+    If you’d like to volunteer to help end homelessness in Manchester, please contact the [Volunteer Centre](https://manchestercommunitycentral.org/volunteer-centre-manchester/) who can connect you to an organisation in need of volunteers. Or call the Volunteering Team on 0161 830 4770 (Monday to Friday 10am to 4pm) or email [info@volunteercentremanchester.co.uk](info@volunteercentremanchester.co.uk)  
 
 
     There, you can view an up to date [list of volunteering opportunities](https://manchestercommunitycentral.org/volunteer-centre-manchester/crisis-volunteering?area_of_interest_1112%5B%5D=homeless_and_housing&postal_code=&combine_2=) supporting Housing and Homelessness.  
@@ -126,7 +123,7 @@ about:
     ### Are you from a community or voluntary group looking for advice or connections?
 
 
-    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, including on finding funding, developing a project or connecting with others. Information and support are also available through Macc’s dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
+    You can find a lot of advice and guidance on the [Manchester Community Central](https://manchestercommunitycentral.org/support-groups) website, including on finding funding, developing a project or connecting with others. Information and support are also available through Manchester Community Central's dedicated telephone information service 0333 321 3021 (open from 10am to 4pm Monday to Friday); or by emailing [info@mcrcommunitycentral.org](mailto:info@mcrcommunitycentral.org) 
 
 
     For anything else, please email [info@mhp.org.uk](mailto:info@mhp.org.uk)
